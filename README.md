@@ -12,9 +12,18 @@ Liste des packages necessaires :
  
  
 Listes des fonctionalités :
-
+-elevation/valeur en un pixel
 -Profil topographique / courbe de valeurs
 -Diagramme3D du raster
 -Lecture des metadonnées du raster
 -Lecture de "Scanline" 
 -Polygonisation integrale du raster
+
+(a venir)
+-histogramme & statistique
+-classification rapide (non supervisée)
+-clasification neuronale (non supervisé)
+-selection zonal de terrain d'apprentissage ()
+-calcules d'indices (ndvi ...)
+...
+
