@@ -22,8 +22,9 @@ Listes des fonctionalités :
 (a venir)
 -histogramme & statistique
 -classification rapide (non supervisée)
--clasification neuronale (non supervisé)
--selection zonal de terrain d'apprentissage ()
+-classification supervisée (decision tree/randomforest)
+-clasification neuronale (non supervisé) loi de hebb?
+-selection zonal de terrain d'apprentissage (memoire associative,)
 -calcules d'indices (ndvi ...)
 ...
 
