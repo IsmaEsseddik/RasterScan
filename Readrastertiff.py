@@ -10,8 +10,9 @@ import numpy as np  # calculs numerique
 from matplotlib import pyplot as plt  # graph.
 from matplotlib.mlab import griddata
 from matplotlib import cm
-
-
+import Tkinter as tk
+import tkFileDialog
+import sys
 #------------------------------------------------------------------------------
 line1 = LineString([(0, 0), (5, 4)])  # creation d'un objet ligne 
 line2 = LineString([(5, 0), (0, 4)])
@@ -24,6 +25,7 @@ class raster():
     tif = "C:\Users\isma\Desktop\Python\WhiteadderDEM.tif"
     
     def __init__(self):
+        #tif = self.openfile()
         try:
             self.dataset = gdal.Open(self.tif, GA_ReadOnly)
         except RuntimeError, e: 
@@ -33,10 +35,18 @@ class raster():
         self.metadonnees()
 
     def openfile(self):
-        # subprocess.Popen('explorer "C:"')
-        pass
-    
-    def elev(self,x,y):
+        root = tk.Tk()
+        root.withdraw()
+        root.overrideredirect(True)
+        root.geometry('0x0+0+0')
+        root.deiconify()
+        root.lift()
+        root.focus_force()
+        filename = tkFileDialog.askopenfilename(parent=root)
+        print filename
+        root.destroy()
+
+    def valeurXY(self,x,y):
         return self.dataset.ReadAsArray()[y][x]
             
     def profilelev(self,x1,y1,x2,y2,p):
@@ -95,15 +105,17 @@ class raster():
         print u"Coordonées a l'origine (x,y superieur gauche) : "+str(geotransform[0])+","+str(geotransform[3]) 
         print u"Résolution spatial Ouest-Est : "+str(geotransform[1])
         print u"Résolution spatial Nord-Sud : "+str(geotransform[5])
-        print "Rotations : "+str(geotransform[2])+" , "+str(geotransform[4]) 
+        print "Rotations : "+str(geotransform[2])+" , "+str(geotransform[4])
+        print "Nombre de bandes : ", bands
         for i in range(1,bands+1):
-            print "---------------> BANDE "+str(i)
+            print u"---------------> BANDE N°"+str(i)
             band = self.dataset.GetRasterBand(i)
             if band is None:
+                print u"xxxx-Pas de données-xxxx"
                 continue
             bandtype = gdal.GetDataTypeName(band.DataType)
-            print u"Type de donnée : '"+bandtype+"'"
-            print "Taille de la bande (x,y) :", band.XSize, ",", band.YSize
+            print u"[TYPE DE DONNEES] : '"+bandtype+"'"
+            print "[ DIMENSIONS ] (x,y) :", band.XSize, ",", band.YSize
             print "[ STATS ] :"
             stats = band.GetStatistics( True, True )
             if stats is not None:
@@ -111,11 +123,20 @@ class raster():
                 print'Max=',stats[1]
                 print'Moyenne=', stats[2]
                 print'Ecart-type=', stats[3]
-            print "[NO DATA VALUE] : ", band.GetNoDataValue()
-            print "[ECHELLE] : ", band.GetScale()
-            print "[TYPE D'UNITE] : ", band.GetUnitType()
+            print "[ NO DATA VALUE ] : ", band.GetNoDataValue()
+            print "[ ECHELLE ] : ", band.GetScale()
+            print "[ TYPE D'UNITE ] : ", band.GetUnitType()
+            print "[ COLORTABLE ] : "
+            ctbl=band.GetColorTable()
+            if ctbl is not None:
+                print " [ COLOR TABLE COUNT ] : ", ctable.GetCount()
+                for i in range( 0, ctable.GetCount() ):
+                    entree = ctable.GetColorEntry( i )
+                    if not entree:
+                        continue
+                    print "[ COLOR ENTRY RGB ] = ", ctable.GetColorEntryAsRGB( i, entry )
             print">-----------------------------------------------------------------------<"
-        
+                    
     def getScanline(self,bandek,x0,y0,xn,yn,xs,ys):
         band = self.dataset.GetRasterBand(bandek)
         scanline = band.ReadRaster(x0,y0,xn,yn,xs,ys,band.DataType)
@@ -146,12 +167,22 @@ class raster():
         ax.set_zlim(zmin, zmax)  # limites de representation de z
         ax.view_init(60,-105)  # vue initiale
         fig.colorbar(surf, shrink=0.4, aspect=20)  # reglage de la legende couleur (longeur,minceur)
-        ax.set_xlabel('X')  # etiquette
-        ax.set_ylabel('Y')  # des
-        ax.set_zlabel('Z')  # axes
+        ax.set_xlabel('X')  # etiquettes...
+        ax.set_ylabel('Y')  # ...des...
+        ax.set_zlabel('Z')  # ...axes
         plt.show()
 
-    
+    def histogram(self,bandek,classes):
+        band = self.dataset.GetRasterBand(bandek) # selection de la bande
+        bandarray = band.ReadAsArray() #lecture de la bande
+        stats = band.GetStatistics( True, True ) # recuperation des données stat
+        vmin, vmax =stats[0], stats[1] # valeurs min&max
+        plt.hist(bandarray,range=(vmin,vmax), bins=classes)
+        plt.xlabel("valeurs")
+        plt.ylabel("occurences")
+        plt.title("Effectif de pixel en fonction des valeurs")
+        plt.show()
+
 if __name__=="__main__":
     # metadonneestif(tif)
     # print getScan1stline(tif,1)
