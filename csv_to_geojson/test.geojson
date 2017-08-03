@@ -1,0 +1,1776 @@
+{
+    "crs": "NULL", 
+    "driver": "NULL", 
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    24.93837899999994, 
+                    60.16985569999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Helsinki"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    30.335098600000038, 
+                    59.9342802
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Saint-Petersbourg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    10.752245399999993, 
+                    59.9138688
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Oslo"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    18.068580800000063, 
+                    59.32932349999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Stockholm"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    24.10518639999998, 
+                    56.9496487
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Riga"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.188266999999996, 
+                    55.953252
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Edimbourg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.251805999999988, 
+                    55.864237
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Glasgow"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    37.6173, 
+                    55.755826
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Moscou"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    12.568337100000008, 
+                    55.6760968
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Copenhague"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.6177800000000389, 
+                    54.978252
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Newcastle-upon-Tyne"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    25.279651400000034, 
+                    54.6871555
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Vilnius"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.930119999999988, 
+                    54.59728500000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Belfast"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.5490773999999874, 
+                    53.8007554
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Leeds"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.99368179999999, 
+                    53.5510846
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Hambourg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.2426305000000184, 
+                    53.4807593
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Manchester"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.9915726000000404, 
+                    53.4083714
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Liverpool"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.47008500000004, 
+                    53.38112899999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Sheffield"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.260309699999993, 
+                    53.3498053
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Dublin"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.404953999999975, 
+                    52.52000659999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Berlin"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.8904009999999971, 
+                    52.48624299999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Birmingham"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    4.895167899999933, 
+                    52.3702157
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Amsterdam"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    21.012228700000037, 
+                    52.2296756
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Varsovie"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    4.3006999000000405, 
+                    52.0704978
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "La Haye"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    4.477732500000002, 
+                    51.9244201
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Rotterdam"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.12775829999998223, 
+                    51.5073509
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Londres"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    4.40246430000002, 
+                    51.2194475
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Anvers"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    3.2246995000000425, 
+                    51.209348
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Bruges"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    3.717424299999948, 
+                    51.05434220000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Gand"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.960278600000038, 
+                    50.937531
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Cologne"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.404350900000054, 
+                    50.9097004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Southampton"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    4.351710300000036, 
+                    50.8503396
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Bruxelles"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.0879769000000579, 
+                    50.8197675
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Portsmouth"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.8807689999999866, 
+                    50.719164
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Bournemouth"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    3.057256000000052, 
+                    50.62924999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Lille"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    30.523400000000038, 
+                    50.4501
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Kiev"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.682126700000026, 
+                    50.1109221
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Francfort"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.43780049999998, 
+                    50.0755381
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Prague"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.008256299999971, 
+                    50.3599517
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Abidjan"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.12073750000002, 
+                    49.2827291
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Vancouver"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3522219000000177, 
+                    48.856614
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Paris"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.752111300000024, 
+                    48.57340529999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Strasbourg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    16.373813799999994, 
+                    48.20823499999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Vienne"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    11.581980599999952, 
+                    48.1351253
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Munich"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.055010000000038, 
+                    47.80949
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Salzbourg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    19.04023499999994, 
+                    47.497912
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Budapest"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.541694000000007, 
+                    47.3768866
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Zurich"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.553621000000021, 
+                    47.218371
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Nantes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.447446799999966, 
+                    46.9479739
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Berne"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.2079809, 
+                    46.8138783
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Quebec"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.143157699999961, 
+                    46.2043907
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Geneve"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.981919000000062, 
+                    45.8150108
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Zagreb"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    4.835658999999964, 
+                    45.764043
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Lyon"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.56725599999999, 
+                    45.5016889
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Montreal"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.18592430000001, 
+                    45.4654219
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Milan"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    12.31551509999997, 
+                    45.4408474
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Venise"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.69719309999999, 
+                    45.4215296
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Ottawa"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.686856499999976, 
+                    45.07031200000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Turin"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.5791799999999512, 
+                    44.837789
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Bordeaux"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    26.102538399999958, 
+                    44.4267674
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Bucarest"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    11.25581360000001, 
+                    43.7695604
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Florence"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.261953199999994, 
+                    43.7101728
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Nice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.38318429999998, 
+                    43.653226
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Toronto"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    3.8767159999999876, 
+                    43.610769
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Montpellier"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    1.4442090000000007, 
+                    43.604652
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Toulouse"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    5.369779999999992, 
+                    43.296482
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Marseille"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    23.321867500000053, 
+                    42.69770819999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Sofia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    18.09442379999996, 
+                    42.65066059999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Dubrovnik"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    12.496365500000024, 
+                    41.90278349999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Rome"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.62979819999998, 
+                    41.8781136
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Chicago"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1734034999999494, 
+                    41.3850639
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Barcelone"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.629105299999992, 
+                    41.1579438
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Porto"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    28.97835889999999, 
+                    41.0082376
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Istanbul"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.268124400000033, 
+                    40.8517746
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Naples"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.00594130000002, 
+                    40.7127837
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "New York"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.7037901999999576, 
+                    40.4167754
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Madrid"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.072092, 
+                    40.7109886
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Bogota"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    32.85974190000002, 
+                    39.9333635
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Ankara"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    116.40739499999995, 
+                    39.904211
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Pekin"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.3762881000000107, 
+                    39.4699075
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Valence"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.03687070000001, 
+                    38.9071923
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Washington D.C."
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.139336599999979, 
+                    38.7222524
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Lisbonne"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    23.727538800000048, 
+                    37.9838096
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Athenes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41941550000001, 
+                    37.7749295
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "San Francisco"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    126.97796919999996, 
+                    37.566535
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Seoul"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.984458899999936, 
+                    37.3890924
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Seville"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    10.181531599999971, 
+                    36.8064948
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Tunis"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    3.0587560999999823, 
+                    36.753768
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Alger"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.13982959999998, 
+                    36.1699412
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Las Vegas"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    139.69170639999993, 
+                    35.6894875
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Tokyo"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.388973599999986, 
+                    35.6891975
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Teheran"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    33.38227640000002, 
+                    35.1855659
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Nicosie"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    135.50216509999996, 
+                    34.6937378
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Osaka"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    69.20748600000002, 
+                    34.5553494
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Kaboul"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.2436849, 
+                    34.0522342
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Los Angeles"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.849812899999961, 
+                    33.9715904
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Rabat"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    73.09314610000001, 
+                    33.7293882
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Islamabad"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.589843400000063, 
+                    33.5731104
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Casablanca"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    44.36148750000007, 
+                    33.3128057
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Bagdad"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.66798259999996, 
+                    32.6546275
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Ispahan"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    35.21370999999999, 
+                    31.768319
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Jerusalem"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    121.473701, 
+                    31.230416
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Shanghai"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    31.23571160000006, 
+                    30.0444196
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Le Caire"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    101.68685499999992, 
+                    30.139003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Kuala Lumpur"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.58369820000007, 
+                    29.5917677
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Chiraz"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    106.551556, 
+                    29.56301
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Chongqing"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.20902120000005, 
+                    28.6139391
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "New Delhi"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    85.3239605, 
+                    27.7172453
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Katmandou"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.00807450000002, 
+                    27.1766701
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Agra"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.19179020000001, 
+                    25.7616798
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Miami"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.3161126, 
+                    25.6866142
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Monterrey"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    55.270782800000006, 
+                    25.2048493
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Dubai"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    67.00993879999999, 
+                    24.8614622
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Karachi"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    46.67529569999999, 
+                    24.7135517
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Riyad"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    54.37712287588511, 
+                    24.453728418528172
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Abou Dabi"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    90.41251809999994, 
+                    23.810332
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Dacca"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.36659559999998, 
+                    23.1135925
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "La Havane"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    88.36389499999996, 
+                    22.572646
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Calcutta"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    114.17469499999993, 
+                    22.2783151
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Hong-Kong"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    39.85791180000001, 
+                    21.3890824
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "La Mecque"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.34960920000003, 
+                    20.65969879999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Guadalajara"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.13320799999997, 
+                    19.4326077
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Mexico"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    72.87765590000004, 
+                    19.0759837
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Bombay"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.486671, 
+                    17.385044
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Hyderabad"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.90360629999998, 
+                    10.4805937
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Caracas"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    103.86774439999999, 
+                    10.3553794
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Singapour"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -56.16453139999999, 
+                    -34.9011127
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Montevideo"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.381559100000004, 
+                    -34.60368440000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Buenos Aires"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.65044920000003, 
+                    -33.4378305
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Santiago de Chile"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    28.047305100000017, 
+                    -26.2041028
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Johannesburg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.63330939999997, 
+                    -23.5505199
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Sao Paulo"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -43.17289649999998, 
+                    -22.9068467
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Rio de Janeiro"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    55.45505359999993, 
+                    -20.8906596
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Saint-Denis (La Reunion)"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    47.50790549999999, 
+                    -18.8791902
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Antananarivo"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -47.864471500000036, 
+                    -15.7997654
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Brasilia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0427934, 
+                    -12.046374
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Lima"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.598652500000071, 
+                    37.1772794
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "nom_ville": "Grenade"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "schema": "NULL", 
+    "type": "FeatureCollection"
+}
