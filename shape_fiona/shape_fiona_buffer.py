@@ -21,6 +21,7 @@ def buffer_ptshp_to_geojson(nom_fichier, nom_sortie):
     with fiona.open(nom_fichier, "r") as source:
         with open(nom_sortie+".geojson","w") as output:
             geojson = {"type": 'FeatureCollection', 'features': [], "crs":source.crs, "schema" : source.schema, "driver": source.driver}
+            geojson['schema']['geometry'] = 'Polygon'
             cmpt=0
             for i in source:
                 if i['geometry']['type'] == 'Point':
@@ -29,14 +30,7 @@ def buffer_ptshp_to_geojson(nom_fichier, nom_sortie):
                     ring = list(geom.boundary.coords) #on recupere le contour en tant que list de coordonnées
                     feat = { "type": "Feature", "geometry": {"type":"Polygon", "coordinates": [ring]}}
                     geojson['features'].append(feat)
-                elif (i['geometry']['type'] == 'LineString' or i['geometry']['type'] == 'MultiPoint' ):
-                    pass
-                elif (i['geometry']['type'] == 'Polygon' or i['geometry']['type'] == 'MultiLineString'):
-                    pass
-                elif (i['geometry']['type'] == 'MultiPolygon'):
-                    pass
-                geojson['features'][cmpt]['properties']=i['properties']
-                geojson['schema']['geometry'] = 'Polygon'
+                    geojson['features'][cmpt]['properties']=i['properties']
                 cmpt+=1
             output.write(json.dumps(geojson, output, indent=4, sort_keys=True))
     print u"buffer exécuté"
