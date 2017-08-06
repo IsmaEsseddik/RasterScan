@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Thomas Leplus -->
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph id="metro" edgedefault="directed">
+    <node id="1 La Defense"/>
+    <node id="2 Esplanade de La Defense"/>
+    <node id="3 Pont de Neuilly"/>
+    <node id="4 Les Sablons"/>
+    <node id="5 Porte Maillot"/>
+    <node id="6 Argentine"/>
+    <node id="7 Charles de Gaulle - Etoile"/>
+    <node id="8 George V"/>
+    <node id="9 Franklin D. Roosevelt"/>
+    <node id="10 Champs-Elysees - Clemenceau"/>
+    <node id="11 Concorde"/>
+    <node id="12 Tuileries"/>
+    <node id="13 Palais Royal - Musee du Louvre"/>
+    <node id="14 Louvre-Rivoli"/>
+    <node id="15 Chatelet"/>
+    <node id="16 Hotel de Ville"/>
+    <node id="17 Saint-Paul"/>
+    <node id="18 Bastille"/>
+    <node id="19 Gare de Lyon"/>
+    <node id="20 Reuilly - Diderot"/>
+    <node id="21 Nation"/>
+    <node id="22 Porte de Vincennes"/>
+    <node id="23 Saint-Mande"/>
+    <node id="24 Berault"/>
+    <node id="25 Chateau de Vincennes"/>
+    <node id="26 Porte Dauphine"/>
+    <node id="27 Victor Hugo"/>
+    <node id="28 Ternes"/>
+    <node id="29 Courcelles"/>
+    <node id="30 Monceau"/>
+    <node id="31 Villiers"/>
+    <node id="32 Rome"/>
+    <node id="33 Place de Clichy"/>
+    <node id="34 Blanche"/>
+    <node id="35 Pigalle"/>
+    <node id="36 Anvers"/>
+    <node id="37 Barbes - Rochechouart"/>
+    <node id="38 La Chapelle"/>
+    <node id="39 Stalingrad"/>
+    <node id="40 Jaures"/>
+    <node id="41 Colonel Fabien"/>
+    <node id="42 Belleville"/>
+    <node id="43 Couronnes"/>
+    <node id="44 Menilmontant"/>
+    <node id="45 Pere Lachaise"/>
+    <node id="46 Philippe Auguste"/>
+    <node id="47 Alexandre Dumas"/>
+    <node id="48 Avron"/>
+    <node id="49 Pont de Levallois - Becon"/>
+    <node id="50 Anatole France"/>
+    <node id="51 Louise Michel"/>
+    <node id="52 Porte de Champerret"/>
+    <node id="53 Pereire"/>
+    <node id="54 Wagram"/>
+    <node id="55 Malesherbes"/>
+    <node id="56 Goncourt"/>
+    <node id="57 Europe"/>
+    <node id="58 Saint-Lazare"/>
+    <node id="59 Havre - Caumartin"/>
+    <node id="60 Opera"/>
+    <node id="61 Quatre-Septembre"/>
+    <node id="62 Bourse"/>
+    <node id="63 Sentier"/>
+    <node id="64 Reaumur - Sebastopol"/>
+    <node id="65 Arts et Metiers"/>
+    <node id="66 Temple"/>
+    <node id="67 Republique"/>
+    <node id="68 Parmentier"/>
+    <node id="69 Rue Saint-Maur"/>
+    <node id="70 Gambetta"/>
+    <node id="71 Porte de Bagnolet"/>
+    <node id="72 Gallieni"/>
+    <node id="73 Porte des Lilas"/>
+    <node id="74 Saint-Fargeau"/>
+    <node id="75 Pelleport"/>
+    <node id="76 Porte de Clignancourt"/>
+    <node id="77 Simplon"/>
+    <node id="78 Marcadet Poissonniers"/>
+    <node id="79 Chateau Rouge"/>
+    <node id="80 Gare du Nord"/>
+    <node id="81 Gare de l'Est"/>
+    <node id="82 Chateau d'Eau"/>
+    <node id="83 Strasbourg Saint-Denis"/>
+    <node id="84 Rambuteau"/>
+    <node id="85 Etienne Marcel"/>
+    <node id="86 Les Halles"/>
+    <node id="87 Cite"/>
+    <node id="88 Saint-Michel"/>
+    <node id="89 Odeon"/>
+    <node id="90 Saint-Germain-des-Pres"/>
+    <node id="91 Saint-Sulpice"/>
+    <node id="92 Saint-Placide"/>
+    <node id="93 Montparnasse Bienvenue"/>
+    <node id="94 Vavin"/>
+    <node id="95 Raspail"/>
+    <node id="96 Denfert-Rochereau"/>
+    <node id="97 Mouton-Duvernet"/>
+    <node id="98 Alesia"/>
+    <node id="99 Porte d'Orleans"/>
+    <node id="100 Bobigny Pablo Picasso"/>
+    <node id="101 Bobigny - Pantin - Raymond Queneau"/>
+    <node id="102 Eglise de Pantin"/>
+    <node id="103 Hoche"/>
+    <node id="104 Porte de Pantin"/>
+    <node id="105 Ourcq"/>
+    <node id="106 Laumiere"/>
+    <node id="107 Jacques Bonsergent"/>
+    <node id="108 Oberkampf"/>
+    <node id="109 Richard-Lenoir"/>
+    <node id="110 Breguet - Sabin"/>
+    <node id="111 Quai de la Rapee"/>
+    <node id="112 Gare d'Austerlitz"/>
+    <node id="113 Saint-Marcel"/>
+    <node id="114 Campo-Formio"/>
+    <node id="115 Place d'Italie"/>
+    <node id="116 Kleber"/>
+    <node id="117 Boissiere"/>
+    <node id="118 Trocadero"/>
+    <node id="119 Passy"/>
+    <node id="120 Bir-Hakeim"/>
+    <node id="121 Dupleix"/>
+    <node id="122 La Motte-Picquet Grenelle"/>
+    <node id="123 Cambronne"/>
+    <node id="124 Sevres-Lecourbe"/>
+    <node id="125 Pasteur"/>
+    <node id="126 Edgar Quinet"/>
+    <node id="127 Saint-Jacques"/>
+    <node id="128 Glaciere"/>
+    <node id="129 Corvisart"/>
+    <node id="130 Nationale"/>
+    <node id="131 Chevaleret"/>
+    <node id="132 Quai de la Gare"/>
+    <node id="133 Bercy"/>
+    <node id="134 Dugommier"/>
+    <node id="135 Daumesnil"/>
+    <node id="136 Bel-Air"/>
+    <node id="137 Picpus"/>
+    <node id="138 La Courneuve 8 Mai 1945"/>
+    <node id="139 Fort d'Aubervilliers"/>
+    <node id="140 Aubervilliers - Pantin - Quatre Chemins"/>
+    <node id="141 Porte de la Villette"/>
+    <node id="142 Corentin Cariou"/>
+    <node id="143 Crimee"/>
+    <node id="144 Riquet"/>
+    <node id="145 Louis Blanc"/>
+    <node id="146 Chateau Landon"/>
+    <node id="147 Poissoniere"/>
+    <node id="148 Cadet"/>
+    <node id="149 Le Peletier"/>
+    <node id="150 Chaussee d'Antin - La Fayette"/>
+    <node id="151 Pyramides"/>
+    <node id="152 Pont Neuf"/>
+    <node id="153 Pont Marie"/>
+    <node id="154 Sully - Morland"/>
+    <node id="155 Jussieu"/>
+    <node id="156 Place Monge"/>
+    <node id="157 Censier - Daubenton"/>
+    <node id="158 Les Gobelines"/>
+    <node id="159 Tolbiac"/>
+    <node id="160 Maison Blanche"/>
+    <node id="161 Porte d'Italie"/>
+    <node id="162 Porte de Choisy"/>
+    <node id="163 Porte d'Ivry"/>
+    <node id="164 Pierre et Marie Curie"/>
+    <node id="165 Mairie d'Ivry"/>
+    <node id="166 Le Kremlin-Bicetre"/>
+    <node id="167 Villejuif - Leo Lagrange"/>
+    <node id="168 Villejuif - Paul Vaillant - Couturier"/>
+    <node id="169 Villejuif - Louis Aragon"/>
+    <node id="170 Bolivar"/>
+    <node id="171 Buttes Chaumont"/>
+    <node id="172 Botzaris"/>
+    <node id="173 Place des Fetes"/>
+    <node id="174 Pre-Saint-Gervais"/>
+    <node id="175 Danube"/>
+    <node id="176 Balard"/>
+    <node id="177 Lourmel"/>
+    <node id="178 Boucicaut"/>
+    <node id="179 Felix Faure"/>
+    <node id="180 Commerce"/>
+    <node id="181 Ecole Militaire"/>
+    <node id="182 La Tour-Maubourg"/>
+    <node id="183 Invalides"/>
+    <node id="184 Madeleine"/>
+    <node id="185 Richelieu - Drouot"/>
+    <node id="186 Grands Boulevards"/>
+    <node id="187 Bonne Nouvelle"/>
+    <node id="188 Filles du Calvaire"/>
+    <node id="189 Saint-Sebastien - Froissart"/>
+    <node id="190 Chemin Vert"/>
+    <node id="191 Ledru-Rollin"/>
+    <node id="192 Faidherbe - Chaligny"/>
+    <node id="193 Montgallet"/>
+    <node id="194 Michel Bizot"/>
+    <node id="195 Porte Doree"/>
+    <node id="196 Porte de Charenton"/>
+    <node id="197 Liberte"/>
+    <node id="198 Charenton - Ecoles"/>
+    <node id="199 Ecole Veterinaire de Maisons-Alfort"/>
+    <node id="200 Maisons-Alfort - Stade"/>
+    <node id="201 Maisons-Alfort - Les Juilliottes"/>
+    <node id="202 Creteil - L'Echat"/>
+    <node id="203 Creteil - Universite"/>
+    <node id="204 Creteil - Prefecture"/>
+    <node id="205 Pont de Sevres"/>
+    <node id="206 Billancourt"/>
+    <node id="207 Marcel Sembat"/>
+    <node id="208 Porte de Saint-Cloud"/>
+    <node id="209 Exelmans"/>
+    <node id="210 Michel-Ange - Molitor"/>
+    <node id="211 Michel-Ange - Auteuil"/>
+    <node id="212 Jasmin"/>
+    <node id="213 Ranelagh"/>
+    <node id="214 La Muette"/>
+    <node id="215 Rue de la Pompe"/>
+    <node id="216 Iena"/>
+    <node id="217 Alma - Marceau"/>
+    <node id="218 Saint-Philippe-du-Roule"/>
+    <node id="219 Miromesnil"/>
+    <node id="220 Saint-Augustin"/>
+    <node id="221 Grands Boulevards"/>
+    <node id="222 Bonne Nouvelle"/>
+    <node id="223 Saint-Ambroise"/>
+    <node id="224 Voltaire"/>
+    <node id="225 Charonne"/>
+    <node id="226 Rue des Boulets"/>
+    <node id="227 Buzenval"/>
+    <node id="228 Maraichers"/>
+    <node id="229 Porte de Montreuil"/>
+    <node id="230 Robespierre"/>
+    <node id="231 Croix de Chavaux"/>
+    <node id="232 Mairie de Montreuil"/>
+    <node id="233 Boulogne - Porte de Saint-Cloud"/>
+    <node id="234 Boulogne - Jean Jaures"/>
+    <node id="235 Chardon Lagache"/>
+    <node id="236 Mirabeau"/>
+    <node id="237 Javel - Andre Citroen"/>
+    <node id="238 Charles Michels"/>
+    <node id="239 Avenue Emile Zola"/>
+    <node id="240 Segur"/>
+    <node id="241 Duroc"/>
+    <node id="242 Vaneau"/>
+    <node id="243 Sevres Babylone"/>
+    <node id="244 Mabillon"/>
+    <node id="245 Cluny - La Sorbonne"/>
+    <node id="246 Maubert - Mutualite"/>
+    <node id="247 Cardinal Lemoine"/>
+    <node id="248 Eglise d'Auteuil"/>
+    <node id="249 Porte d'Auteuil"/>
+    <node id="250 Pyrenees"/>
+    <node id="251 Jourdain"/>
+    <node id="252 Telegraphe"/>
+    <node id="253 Mairie des Lilas"/>
+    <node id="254 Porte de la Chapelle"/>
+    <node id="255 Marx Dormoy"/>
+    <node id="256 Jules Joffrin"/>
+    <node id="257 Lamarck - Caulaincourt"/>
+    <node id="258 Abbesses"/>
+    <node id="259 Saint-Georges"/>
+    <node id="260 Notre-Dame-de-Lorette"/>
+    <node id="261 Trinite-d'Estienne d'Orves"/>
+    <node id="262 Assemblee Nationale"/>
+    <node id="263 Solferino"/>
+    <node id="264 Rue du Bac"/>
+    <node id="265 Rennes"/>
+    <node id="266 Notre-Dame-des-Champs"/>
+    <node id="267 Falguiere"/>
+    <node id="268 Volontaires"/>
+    <node id="269 Vaugirard"/>
+    <node id="270 Convention"/>
+    <node id="271 Porte de Versailles"/>
+    <node id="272 Corentin Celton"/>
+    <node id="273 Mairie d'Issy"/>
+    <node id="274 Chatillon - Montrouge"/>
+    <node id="275 Malakoff - Rue Etienne Dolet"/>
+    <node id="276 Malakoff - Plateau de Vanves"/>
+    <node id="277 Porte de Vanves"/>
+    <node id="278 Plaisance"/>
+    <node id="279 Pernety"/>
+    <node id="280 Gaite"/>
+    <node id="281 Saint-Francois-Xavier"/>
+    <node id="282 Varenne"/>
+    <node id="283 Liege"/>
+    <node id="284 La Fourche"/>
+    <node id="285 Guy Moquet"/>
+    <node id="286 Porte de Saint-Ouen"/>
+    <node id="287 Garibaldi"/>
+    <node id="288 Mairie de Saint-Ouen"/>
+    <node id="289 Carrefour Pleyel"/>
+    <node id="290 Saint-Denis - Porte de Paris"/>
+    <node id="291 Basilique de Saint-Denis"/>
+    <node id="292 Saint-Denis - Universite"/>
+    <node id="293 Brochant"/>
+    <node id="294 Porte de Clichy"/>
+    <node id="295 Mairie de Clichy"/>
+    <node id="296 Gabriel Peri"/>
+    <node id="297 Les Agnettes"/>
+    <node id="298 Asnieres - Gennevilliers - Les Courtilles"/>
+    <node id="299 Cour Saint-Emilion"/>
+    <node id="300 Biblioteque Francois Mitterrand"/>
+    <node id="301 Olympiades"/>
+    <edge id="1 M1" source="1 La Defense" target="2 Esplanade de La Defense" directed="true"/>
+    <edge id="2 M1" source="2 Esplanade de La Defense" target="3 Pont de Neuilly" directed="true"/>
+    <edge id="3 M1" source="3 Pont de Neuilly" target="4 Les Sablons" directed="true"/>
+    <edge id="4 M1" source="4 Les Sablons" target="5 Porte Maillot" directed="true"/>
+    <edge id="5 M1" source="5 Porte Maillot" target="6 Argentine" directed="true"/>
+    <edge id="6 M1" source="6 Argentine" target="7 Charles de Gaulle - Etoile" directed="true"/>
+    <edge id="7 M1" source="7 Charles de Gaulle - Etoile" target="8 George V" directed="true"/>
+    <edge id="8 M1" source="8 George V" target="9 Franklin D. Roosevelt" directed="true"/>
+    <edge id="9 M1" source="9 Franklin D. Roosevelt" target="10 Champs-Elysees - Clemenceau" directed="true"/>
+    <edge id="10 M1" source="10 Champs-Elysees - Clemenceau" target="11 Concorde" directed="true"/>
+    <edge id="11 M1" source="11 Concorde" target="12 Tuileries" directed="true"/>
+    <edge id="12 M1" source="12 Tuileries" target="13 Palais Royal - Musee du Louvre" directed="true"/>
+    <edge id="13 M1" source="13 Palais Royal - Musee du Louvre" target="14 Louvre-Rivoli" directed="true"/>
+    <edge id="14 M1" source="14 Louvre-Rivoli" target="15 Chatelet" directed="true"/>
+    <edge id="15 M1" source="15 Chatelet" target="16 Hotel de Ville" directed="true"/>
+    <edge id="16 M1" source="16 Hotel de Ville" target="17 Saint-Paul" directed="true"/>
+    <edge id="17 M1" source="17 Saint-Paul" target="18 Bastille" directed="true"/>
+    <edge id="18 M1" source="18 Bastille" target="19 Gare de Lyon" directed="true"/>
+    <edge id="19 M1" source="19 Gare de Lyon" target="20 Reuilly - Diderot" directed="true"/>
+    <edge id="20 M1" source="20 Reuilly - Diderot" target="21 Nation" directed="true"/>
+    <edge id="21 M1" source="21 Nation" target="22 Porte de Vincennes" directed="true"/>
+    <edge id="22 M1" source="22 Porte de Vincennes" target="23 Saint-Mande" directed="true"/>
+    <edge id="23 M1" source="23 Saint-Mande" target="24 Berault" directed="true"/>
+    <edge id="24 M1" source="24 Berault" target="25 Chateau de Vincennes" directed="true"/>
+    <edge id="25 M1" source="25 Chateau de Vincennes" target="24 Berault" directed="true"/>
+    <edge id="26 M1" source="24 Berault" target="23 Saint-Mande" directed="true"/>
+    <edge id="27 M1" source="23 Saint-Mande" target="22 Porte de Vincennes" directed="true"/>
+    <edge id="28 M1" source="22 Porte de Vincennes" target="21 Nation" directed="true"/>
+    <edge id="29 M1" source="21 Nation" target="20 Reuilly - Diderot" directed="true"/>
+    <edge id="30 M1" source="20 Reuilly - Diderot" target="19 Gare de Lyon" directed="true"/>
+    <edge id="31 M1" source="19 Gare de Lyon" target="18 Bastille" directed="true"/>
+    <edge id="32 M1" source="18 Bastille" target="17 Saint-Paul" directed="true"/>
+    <edge id="33 M1" source="17 Saint-Paul" target="16 Hotel de Ville" directed="true"/>
+    <edge id="34 M1" source="16 Hotel de Ville" target="15 Chatelet" directed="true"/>
+    <edge id="35 M1" source="15 Chatelet" target="14 Louvre-Rivoli" directed="true"/>
+    <edge id="36 M1" source="14 Louvre-Rivoli" target="13 Palais Royal - Musee du Louvre" directed="true"/>
+    <edge id="37 M1" source="13 Palais Royal - Musee du Louvre" target="12 Tuileries" directed="true"/>
+    <edge id="38 M1" source="12 Tuileries" target="11 Concorde" directed="true"/>
+    <edge id="39 M1" source="11 Concorde" target="10 Champs-Elysees - Clemenceau" directed="true"/>
+    <edge id="40 M1" source="10 Champs-Elysees - Clemenceau" target="9 Franklin D. Roosevelt" directed="true"/>
+    <edge id="41 M1" source="9 Franklin D. Roosevelt" target="8 George V" directed="true"/>
+    <edge id="42 M1" source="8 George V" target="7 Charles de Gaulle - Etoile" directed="true"/>
+    <edge id="43 M1" source="7 Charles de Gaulle - Etoile" target="6 Argentine" directed="true"/>
+    <edge id="44 M1" source="6 Argentine" target="5 Porte Maillot" directed="true"/>
+    <edge id="45 M1" source="5 Porte Maillot" target="4 Les Sablons" directed="true"/>
+    <edge id="46 M1" source="4 Les Sablons" target="3 Pont de Neuilly" directed="true"/>
+    <edge id="47 M1" source="3 Pont de Neuilly" target="2 Esplanade de La Defense" directed="true"/>
+    <edge id="48 M1" source="2 Esplanade de La Defense" target="1 La Defense" directed="true"/>
+    <edge id="49 M10" source="233 Boulogne - Porte de Saint-Cloud" target="234 Boulogne - Jean Jaures" directed="true"/>
+    <edge id="50 M10" source="234 Boulogne - Jean Jaures" target="210 Michel-Ange - Molitor" directed="true"/>
+    <edge id="51 M10" source="210 Michel-Ange - Molitor" target="235 Chardon Lagache" directed="true"/>
+    <edge id="52 M10" source="235 Chardon Lagache" target="236 Mirabeau" directed="true"/>
+    <edge id="53 M10" source="236 Mirabeau" target="237 Javel - Andre Citroen" directed="true"/>
+    <edge id="54 M10" source="237 Javel - Andre Citroen" target="238 Charles Michels" directed="true"/>
+    <edge id="55 M10" source="238 Charles Michels" target="239 Avenue Emile Zola" directed="true"/>
+    <edge id="56 M10" source="239 Avenue Emile Zola" target="122 La Motte-Picquet Grenelle" directed="true"/>
+    <edge id="57 M10" source="122 La Motte-Picquet Grenelle" target="240 Segur" directed="true"/>
+    <edge id="58 M10" source="240 Segur" target="241 Duroc" directed="true"/>
+    <edge id="59 M10" source="241 Duroc" target="242 Vaneau" directed="true"/>
+    <edge id="60 M10" source="242 Vaneau" target="243 Sevres Babylone" directed="true"/>
+    <edge id="61 M10" source="243 Sevres Babylone" target="244 Mabillon" directed="true"/>
+    <edge id="62 M10" source="244 Mabillon" target="89 Odeon" directed="true"/>
+    <edge id="63 M10" source="89 Odeon" target="245 Cluny - La Sorbonne" directed="true"/>
+    <edge id="64 M10" source="245 Cluny - La Sorbonne" target="246 Maubert - Mutualite" directed="true"/>
+    <edge id="65 M10" source="246 Maubert - Mutualite" target="247 Cardinal Lemoine" directed="true"/>
+    <edge id="66 M10" source="247 Cardinal Lemoine" target="155 Jussieu" directed="true"/>
+    <edge id="67 M10" source="155 Jussieu" target="112 Gare d'Austerlitz" directed="true"/>
+    <edge id="68 M10" source="112 Gare d'Austerlitz" target="155 Jussieu" directed="true"/>
+    <edge id="69 M10" source="155 Jussieu" target="247 Cardinal Lemoine" directed="true"/>
+    <edge id="70 M10" source="247 Cardinal Lemoine" target="246 Maubert - Mutualite" directed="true"/>
+    <edge id="71 M10" source="246 Maubert - Mutualite" target="245 Cluny - La Sorbonne" directed="true"/>
+    <edge id="72 M10" source="245 Cluny - La Sorbonne" target="89 Odeon" directed="true"/>
+    <edge id="73 M10" source="89 Odeon" target="244 Mabillon" directed="true"/>
+    <edge id="74 M10" source="244 Mabillon" target="243 Sevres Babylone" directed="true"/>
+    <edge id="75 M10" source="243 Sevres Babylone" target="242 Vaneau" directed="true"/>
+    <edge id="76 M10" source="242 Vaneau" target="241 Duroc" directed="true"/>
+    <edge id="77 M10" source="241 Duroc" target="240 Segur" directed="true"/>
+    <edge id="78 M10" source="240 Segur" target="122 La Motte-Picquet Grenelle" directed="true"/>
+    <edge id="79 M10" source="122 La Motte-Picquet Grenelle" target="239 Avenue Emile Zola" directed="true"/>
+    <edge id="80 M10" source="239 Avenue Emile Zola" target="238 Charles Michels" directed="true"/>
+    <edge id="81 M10" source="238 Charles Michels" target="237 Javel - Andre Citroen" directed="true"/>
+    <edge id="82 M10" source="237 Javel - Andre Citroen" target="248 Eglise d'Auteuil" directed="true"/>
+    <edge id="83 M10" source="248 Eglise d'Auteuil" target="211 Michel-Ange - Auteuil" directed="true"/>
+    <edge id="84 M10" source="211 Michel-Ange - Auteuil" target="249 Porte d'Auteuil" directed="true"/>
+    <edge id="85 M10" source="249 Porte d'Auteuil" target="234 Boulogne - Jean Jaures" directed="true"/>
+    <edge id="86 M10" source="234 Boulogne - Jean Jaures" target="233 Boulogne - Porte de Saint-Cloud" directed="true"/>
+    <edge id="87 M11" source="15 Chatelet" target="16 Hotel de Ville" directed="true"/>
+    <edge id="88 M11" source="16 Hotel de Ville" target="84 Rambuteau" directed="true"/>
+    <edge id="89 M11" source="84 Rambuteau" target="65 Arts et Metiers" directed="true"/>
+    <edge id="90 M11" source="65 Arts et Metiers" target="67 Republique" directed="true"/>
+    <edge id="91 M11" source="67 Republique" target="56 Goncourt" directed="true"/>
+    <edge id="92 M11" source="56 Goncourt" target="42 Belleville" directed="true"/>
+    <edge id="93 M11" source="42 Belleville" target="250 Pyrenees" directed="true"/>
+    <edge id="94 M11" source="250 Pyrenees" target="251 Jourdain" directed="true"/>
+    <edge id="95 M11" source="251 Jourdain" target="173 Place des Fetes" directed="true"/>
+    <edge id="96 M11" source="173 Place des Fetes" target="252 Telegraphe" directed="true"/>
+    <edge id="97 M11" source="252 Telegraphe" target="73 Porte des Lilas" directed="true"/>
+    <edge id="98 M11" source="73 Porte des Lilas" target="253 Mairie des Lilas" directed="true"/>
+    <edge id="99 M11" source="253 Mairie des Lilas" target="73 Porte des Lilas" directed="true"/>
+    <edge id="100 M11" source="73 Porte des Lilas" target="252 Telegraphe" directed="true"/>
+    <edge id="101 M11" source="252 Telegraphe" target="173 Place des Fetes" directed="true"/>
+    <edge id="102 M11" source="173 Place des Fetes" target="251 Jourdain" directed="true"/>
+    <edge id="103 M11" source="251 Jourdain" target="250 Pyrenees" directed="true"/>
+    <edge id="104 M11" source="250 Pyrenees" target="42 Belleville" directed="true"/>
+    <edge id="105 M11" source="42 Belleville" target="56 Goncourt" directed="true"/>
+    <edge id="106 M11" source="56 Goncourt" target="67 Republique" directed="true"/>
+    <edge id="107 M11" source="67 Republique" target="65 Arts et Metiers" directed="true"/>
+    <edge id="108 M11" source="65 Arts et Metiers" target="84 Rambuteau" directed="true"/>
+    <edge id="109 M11" source="84 Rambuteau" target="16 Hotel de Ville" directed="true"/>
+    <edge id="110 M11" source="16 Hotel de Ville" target="15 Chatelet" directed="true"/>
+    <edge id="111 M12" source="254 Porte de la Chapelle" target="255 Marx Dormoy" directed="true"/>
+    <edge id="112 M12" source="255 Marx Dormoy" target="78 Marcadet Poissonniers" directed="true"/>
+    <edge id="113 M12" source="78 Marcadet Poissonniers" target="256 Jules Joffrin" directed="true"/>
+    <edge id="114 M12" source="256 Jules Joffrin" target="257 Lamarck - Caulaincourt" directed="true"/>
+    <edge id="115 M12" source="257 Lamarck - Caulaincourt" target="258 Abbesses" directed="true"/>
+    <edge id="116 M12" source="258 Abbesses" target="35 Pigalle" directed="true"/>
+    <edge id="117 M12" source="35 Pigalle" target="259 Saint-Georges" directed="true"/>
+    <edge id="118 M12" source="259 Saint-Georges" target="260 Notre-Dame-de-Lorette" directed="true"/>
+    <edge id="119 M12" source="260 Notre-Dame-de-Lorette" target="261 Trinite-d'Estienne d'Orves" directed="true"/>
+    <edge id="120 M12" source="261 Trinite-d'Estienne d'Orves" target="58 Saint-Lazare" directed="true"/>
+    <edge id="121 M12" source="58 Saint-Lazare" target="184 Madeleine" directed="true"/>
+    <edge id="122 M12" source="184 Madeleine" target="11 Concorde" directed="true"/>
+    <edge id="123 M12" source="11 Concorde" target="262 Assemblee Nationale" directed="true"/>
+    <edge id="124 M12" source="262 Assemblee Nationale" target="263 Solferino" directed="true"/>
+    <edge id="125 M12" source="263 Solferino" target="264 Rue du Bac" directed="true"/>
+    <edge id="126 M12" source="264 Rue du Bac" target="243 Sevres Babylone" directed="true"/>
+    <edge id="127 M12" source="243 Sevres Babylone" target="265 Rennes" directed="true"/>
+    <edge id="128 M12" source="265 Rennes" target="266 Notre-Dame-des-Champs" directed="true"/>
+    <edge id="129 M12" source="266 Notre-Dame-des-Champs" target="93 Montparnasse Bienvenue" directed="true"/>
+    <edge id="130 M12" source="93 Montparnasse Bienvenue" target="267 Falguiere" directed="true"/>
+    <edge id="131 M12" source="267 Falguiere" target="125 Pasteur" directed="true"/>
+    <edge id="132 M12" source="125 Pasteur" target="268 Volontaires" directed="true"/>
+    <edge id="133 M12" source="268 Volontaires" target="269 Vaugirard" directed="true"/>
+    <edge id="134 M12" source="269 Vaugirard" target="270 Convention" directed="true"/>
+    <edge id="135 M12" source="270 Convention" target="271 Porte de Versailles" directed="true"/>
+    <edge id="136 M12" source="271 Porte de Versailles" target="272 Corentin Celton" directed="true"/>
+    <edge id="137 M12" source="272 Corentin Celton" target="273 Mairie d'Issy" directed="true"/>
+    <edge id="138 M12" source="273 Mairie d'Issy" target="272 Corentin Celton" directed="true"/>
+    <edge id="139 M12" source="272 Corentin Celton" target="271 Porte de Versailles" directed="true"/>
+    <edge id="140 M12" source="271 Porte de Versailles" target="270 Convention" directed="true"/>
+    <edge id="141 M12" source="270 Convention" target="269 Vaugirard" directed="true"/>
+    <edge id="142 M12" source="269 Vaugirard" target="268 Volontaires" directed="true"/>
+    <edge id="143 M12" source="268 Volontaires" target="125 Pasteur" directed="true"/>
+    <edge id="144 M12" source="125 Pasteur" target="267 Falguiere" directed="true"/>
+    <edge id="145 M12" source="267 Falguiere" target="93 Montparnasse Bienvenue" directed="true"/>
+    <edge id="146 M12" source="93 Montparnasse Bienvenue" target="266 Notre-Dame-des-Champs" directed="true"/>
+    <edge id="147 M12" source="266 Notre-Dame-des-Champs" target="265 Rennes" directed="true"/>
+    <edge id="148 M12" source="265 Rennes" target="243 Sevres Babylone" directed="true"/>
+    <edge id="149 M12" source="243 Sevres Babylone" target="264 Rue du Bac" directed="true"/>
+    <edge id="150 M12" source="264 Rue du Bac" target="263 Solferino" directed="true"/>
+    <edge id="151 M12" source="263 Solferino" target="262 Assemblee Nationale" directed="true"/>
+    <edge id="152 M12" source="262 Assemblee Nationale" target="11 Concorde" directed="true"/>
+    <edge id="153 M12" source="11 Concorde" target="184 Madeleine" directed="true"/>
+    <edge id="154 M12" source="184 Madeleine" target="58 Saint-Lazare" directed="true"/>
+    <edge id="155 M12" source="58 Saint-Lazare" target="261 Trinite-d'Estienne d'Orves" directed="true"/>
+    <edge id="156 M12" source="261 Trinite-d'Estienne d'Orves" target="260 Notre-Dame-de-Lorette" directed="true"/>
+    <edge id="157 M12" source="260 Notre-Dame-de-Lorette" target="259 Saint-Georges" directed="true"/>
+    <edge id="158 M12" source="259 Saint-Georges" target="35 Pigalle" directed="true"/>
+    <edge id="159 M12" source="35 Pigalle" target="258 Abbesses" directed="true"/>
+    <edge id="160 M12" source="258 Abbesses" target="257 Lamarck - Caulaincourt" directed="true"/>
+    <edge id="161 M12" source="257 Lamarck - Caulaincourt" target="256 Jules Joffrin" directed="true"/>
+    <edge id="162 M12" source="256 Jules Joffrin" target="78 Marcadet Poissonniers" directed="true"/>
+    <edge id="163 M12" source="78 Marcadet Poissonniers" target="255 Marx Dormoy" directed="true"/>
+    <edge id="164 M12" source="255 Marx Dormoy" target="254 Porte de la Chapelle" directed="true"/>
+    <edge id="165 M13" source="274 Chatillon - Montrouge" target="275 Malakoff - Rue Etienne Dolet" directed="true"/>
+    <edge id="166 M13" source="275 Malakoff - Rue Etienne Dolet" target="276 Malakoff - Plateau de Vanves" directed="true"/>
+    <edge id="167 M13" source="276 Malakoff - Plateau de Vanves" target="277 Porte de Vanves" directed="true"/>
+    <edge id="168 M13" source="277 Porte de Vanves" target="278 Plaisance" directed="true"/>
+    <edge id="169 M13" source="278 Plaisance" target="279 Pernety" directed="true"/>
+    <edge id="170 M13" source="279 Pernety" target="280 Gaite" directed="true"/>
+    <edge id="171 M13" source="280 Gaite" target="93 Montparnasse Bienvenue" directed="true"/>
+    <edge id="172 M13" source="93 Montparnasse Bienvenue" target="241 Duroc" directed="true"/>
+    <edge id="173 M13" source="241 Duroc" target="281 Saint-Francois-Xavier" directed="true"/>
+    <edge id="174 M13" source="281 Saint-Francois-Xavier" target="282 Varenne" directed="true"/>
+    <edge id="175 M13" source="282 Varenne" target="183 Invalides" directed="true"/>
+    <edge id="176 M13" source="183 Invalides" target="10 Champs-Elysees - Clemenceau" directed="true"/>
+    <edge id="177 M13" source="10 Champs-Elysees - Clemenceau" target="219 Miromesnil" directed="true"/>
+    <edge id="178 M13" source="219 Miromesnil" target="58 Saint-Lazare" directed="true"/>
+    <edge id="179 M13" source="58 Saint-Lazare" target="283 Liege" directed="true"/>
+    <edge id="180 M13" source="283 Liege" target="33 Place de Clichy" directed="true"/>
+    <edge id="181 M13" source="33 Place de Clichy" target="284 La Fourche" directed="true"/>
+    <edge id="182 M13" source="284 La Fourche" target="285 Guy Moquet" directed="true"/>
+    <edge id="183 M13" source="285 Guy Moquet" target="286 Porte de Saint-Ouen" directed="true"/>
+    <edge id="184 M13" source="286 Porte de Saint-Ouen" target="287 Garibaldi" directed="true"/>
+    <edge id="185 M13" source="287 Garibaldi" target="288 Mairie de Saint-Ouen" directed="true"/>
+    <edge id="186 M13" source="288 Mairie de Saint-Ouen" target="289 Carrefour Pleyel" directed="true"/>
+    <edge id="187 M13" source="289 Carrefour Pleyel" target="290 Saint-Denis - Porte de Paris" directed="true"/>
+    <edge id="188 M13" source="290 Saint-Denis - Porte de Paris" target="291 Basilique de Saint-Denis" directed="true"/>
+    <edge id="189 M13" source="291 Basilique de Saint-Denis" target="292 Saint-Denis - Universite" directed="true"/>
+    <edge id="190 M13" source="292 Saint-Denis - Universite" target="291 Basilique de Saint-Denis" directed="true"/>
+    <edge id="191 M13" source="291 Basilique de Saint-Denis" target="290 Saint-Denis - Porte de Paris" directed="true"/>
+    <edge id="192 M13" source="290 Saint-Denis - Porte de Paris" target="289 Carrefour Pleyel" directed="true"/>
+    <edge id="193 M13" source="289 Carrefour Pleyel" target="288 Mairie de Saint-Ouen" directed="true"/>
+    <edge id="194 M13" source="288 Mairie de Saint-Ouen" target="287 Garibaldi" directed="true"/>
+    <edge id="195 M13" source="287 Garibaldi" target="286 Porte de Saint-Ouen" directed="true"/>
+    <edge id="196 M13" source="286 Porte de Saint-Ouen" target="285 Guy Moquet" directed="true"/>
+    <edge id="197 M13" source="285 Guy Moquet" target="284 La Fourche" directed="true"/>
+    <edge id="198 M13" source="284 La Fourche" target="293 Brochant" directed="true"/>
+    <edge id="199 M13" source="293 Brochant" target="294 Porte de Clichy" directed="true"/>
+    <edge id="200 M13" source="294 Porte de Clichy" target="295 Mairie de Clichy" directed="true"/>
+    <edge id="201 M13" source="295 Mairie de Clichy" target="296 Gabriel Peri" directed="true"/>
+    <edge id="202 M13" source="296 Gabriel Peri" target="297 Les Agnettes" directed="true"/>
+    <edge id="203 M13" source="297 Les Agnettes" target="298 Asnieres - Gennevilliers - Les Courtilles" directed="true"/>
+    <edge id="204 M13" source="298 Asnieres - Gennevilliers - Les Courtilles" target="297 Les Agnettes" directed="true"/>
+    <edge id="205 M13" source="297 Les Agnettes" target="296 Gabriel Peri" directed="true"/>
+    <edge id="206 M13" source="296 Gabriel Peri" target="295 Mairie de Clichy" directed="true"/>
+    <edge id="207 M13" source="295 Mairie de Clichy" target="294 Porte de Clichy" directed="true"/>
+    <edge id="208 M13" source="294 Porte de Clichy" target="293 Brochant" directed="true"/>
+    <edge id="209 M13" source="293 Brochant" target="284 La Fourche" directed="true"/>
+    <edge id="210 M14" source="58 Saint-Lazare" target="184 Madeleine" directed="true"/>
+    <edge id="211 M14" source="184 Madeleine" target="151 Pyramides" directed="true"/>
+    <edge id="212 M14" source="151 Pyramides" target="15 Chatelet" directed="true"/>
+    <edge id="213 M14" source="15 Chatelet" target="19 Gare de Lyon" directed="true"/>
+    <edge id="214 M14" source="19 Gare de Lyon" target="133 Bercy" directed="true"/>
+    <edge id="215 M14" source="133 Bercy" target="299 Cour Saint-Emilion" directed="true"/>
+    <edge id="216 M14" source="299 Cour Saint-Emilion" target="300 Biblioteque Francois Mitterrand" directed="true"/>
+    <edge id="217 M14" source="300 Biblioteque Francois Mitterrand" target="301 Olympiades" directed="true"/>
+    <edge id="218 M14" source="301 Olympiades" target="300 Biblioteque Francois Mitterrand" directed="true"/>
+    <edge id="219 M14" source="300 Biblioteque Francois Mitterrand" target="299 Cour Saint-Emilion" directed="true"/>
+    <edge id="220 M14" source="299 Cour Saint-Emilion" target="133 Bercy" directed="true"/>
+    <edge id="221 M14" source="133 Bercy" target="19 Gare de Lyon" directed="true"/>
+    <edge id="222 M14" source="19 Gare de Lyon" target="15 Chatelet" directed="true"/>
+    <edge id="223 M14" source="15 Chatelet" target="151 Pyramides" directed="true"/>
+    <edge id="224 M14" source="151 Pyramides" target="184 Madeleine" directed="true"/>
+    <edge id="225 M14" source="184 Madeleine" target="58 Saint-Lazare" directed="true"/>
+    <edge id="226 M2" source="26 Porte Dauphine" target="27 Victor Hugo" directed="true"/>
+    <edge id="227 M2" source="27 Victor Hugo" target="7 Charles de Gaulle - Etoile" directed="true"/>
+    <edge id="228 M2" source="7 Charles de Gaulle - Etoile" target="28 Ternes" directed="true"/>
+    <edge id="229 M2" source="28 Ternes" target="29 Courcelles" directed="true"/>
+    <edge id="230 M2" source="29 Courcelles" target="30 Monceau" directed="true"/>
+    <edge id="231 M2" source="30 Monceau" target="31 Villiers" directed="true"/>
+    <edge id="232 M2" source="31 Villiers" target="32 Rome" directed="true"/>
+    <edge id="233 M2" source="32 Rome" target="33 Place de Clichy" directed="true"/>
+    <edge id="234 M2" source="33 Place de Clichy" target="34 Blanche" directed="true"/>
+    <edge id="235 M2" source="34 Blanche" target="35 Pigalle" directed="true"/>
+    <edge id="236 M2" source="35 Pigalle" target="36 Anvers" directed="true"/>
+    <edge id="237 M2" source="36 Anvers" target="37 Barbes - Rochechouart" directed="true"/>
+    <edge id="238 M2" source="37 Barbes - Rochechouart" target="38 La Chapelle" directed="true"/>
+    <edge id="239 M2" source="38 La Chapelle" target="39 Stalingrad" directed="true"/>
+    <edge id="240 M2" source="39 Stalingrad" target="40 Jaures" directed="true"/>
+    <edge id="241 M2" source="40 Jaures" target="41 Colonel Fabien" directed="true"/>
+    <edge id="242 M2" source="41 Colonel Fabien" target="42 Belleville" directed="true"/>
+    <edge id="243 M2" source="42 Belleville" target="43 Couronnes" directed="true"/>
+    <edge id="244 M2" source="43 Couronnes" target="44 Menilmontant" directed="true"/>
+    <edge id="245 M2" source="44 Menilmontant" target="45 Pere Lachaise" directed="true"/>
+    <edge id="246 M2" source="45 Pere Lachaise" target="46 Philippe Auguste" directed="true"/>
+    <edge id="247 M2" source="46 Philippe Auguste" target="47 Alexandre Dumas" directed="true"/>
+    <edge id="248 M2" source="47 Alexandre Dumas" target="48 Avron" directed="true"/>
+    <edge id="249 M2" source="48 Avron" target="21 Nation" directed="true"/>
+    <edge id="250 M2" source="21 Nation" target="48 Avron" directed="true"/>
+    <edge id="251 M2" source="48 Avron" target="47 Alexandre Dumas" directed="true"/>
+    <edge id="252 M2" source="47 Alexandre Dumas" target="46 Philippe Auguste" directed="true"/>
+    <edge id="253 M2" source="46 Philippe Auguste" target="45 Pere Lachaise" directed="true"/>
+    <edge id="254 M2" source="45 Pere Lachaise" target="44 Menilmontant" directed="true"/>
+    <edge id="255 M2" source="44 Menilmontant" target="43 Couronnes" directed="true"/>
+    <edge id="256 M2" source="43 Couronnes" target="42 Belleville" directed="true"/>
+    <edge id="257 M2" source="42 Belleville" target="41 Colonel Fabien" directed="true"/>
+    <edge id="258 M2" source="41 Colonel Fabien" target="40 Jaures" directed="true"/>
+    <edge id="259 M2" source="40 Jaures" target="39 Stalingrad" directed="true"/>
+    <edge id="260 M2" source="39 Stalingrad" target="38 La Chapelle" directed="true"/>
+    <edge id="261 M2" source="38 La Chapelle" target="37 Barbes - Rochechouart" directed="true"/>
+    <edge id="262 M2" source="37 Barbes - Rochechouart" target="36 Anvers" directed="true"/>
+    <edge id="263 M2" source="36 Anvers" target="35 Pigalle" directed="true"/>
+    <edge id="264 M2" source="35 Pigalle" target="34 Blanche" directed="true"/>
+    <edge id="265 M2" source="34 Blanche" target="33 Place de Clichy" directed="true"/>
+    <edge id="266 M2" source="33 Place de Clichy" target="32 Rome" directed="true"/>
+    <edge id="267 M2" source="32 Rome" target="31 Villiers" directed="true"/>
+    <edge id="268 M2" source="31 Villiers" target="30 Monceau" directed="true"/>
+    <edge id="269 M2" source="30 Monceau" target="29 Courcelles" directed="true"/>
+    <edge id="270 M2" source="29 Courcelles" target="28 Ternes" directed="true"/>
+    <edge id="271 M2" source="28 Ternes" target="7 Charles de Gaulle - Etoile" directed="true"/>
+    <edge id="272 M2" source="7 Charles de Gaulle - Etoile" target="27 Victor Hugo" directed="true"/>
+    <edge id="273 M2" source="27 Victor Hugo" target="26 Porte Dauphine" directed="true"/>
+    <edge id="274 M3" source="49 Pont de Levallois - Becon" target="50 Anatole France" directed="true"/>
+    <edge id="275 M3" source="50 Anatole France" target="51 Louise Michel" directed="true"/>
+    <edge id="276 M3" source="51 Louise Michel" target="52 Porte de Champerret" directed="true"/>
+    <edge id="277 M3" source="52 Porte de Champerret" target="53 Pereire" directed="true"/>
+    <edge id="278 M3" source="53 Pereire" target="54 Wagram" directed="true"/>
+    <edge id="279 M3" source="54 Wagram" target="55 Malesherbes" directed="true"/>
+    <edge id="280 M3" source="55 Malesherbes" target="31 Villiers" directed="true"/>
+    <edge id="281 M3" source="31 Villiers" target="57 Europe" directed="true"/>
+    <edge id="282 M3" source="57 Europe" target="58 Saint-Lazare" directed="true"/>
+    <edge id="283 M3" source="58 Saint-Lazare" target="59 Havre - Caumartin" directed="true"/>
+    <edge id="284 M3" source="59 Havre - Caumartin" target="60 Opera" directed="true"/>
+    <edge id="285 M3" source="60 Opera" target="61 Quatre-Septembre" directed="true"/>
+    <edge id="286 M3" source="61 Quatre-Septembre" target="62 Bourse" directed="true"/>
+    <edge id="287 M3" source="62 Bourse" target="63 Sentier" directed="true"/>
+    <edge id="288 M3" source="63 Sentier" target="64 Reaumur - Sebastopol" directed="true"/>
+    <edge id="289 M3" source="64 Reaumur - Sebastopol" target="65 Arts et Metiers" directed="true"/>
+    <edge id="290 M3" source="65 Arts et Metiers" target="66 Temple" directed="true"/>
+    <edge id="291 M3" source="66 Temple" target="67 Republique" directed="true"/>
+    <edge id="292 M3" source="67 Republique" target="68 Parmentier" directed="true"/>
+    <edge id="293 M3" source="68 Parmentier" target="69 Rue Saint-Maur" directed="true"/>
+    <edge id="294 M3" source="69 Rue Saint-Maur" target="45 Pere Lachaise" directed="true"/>
+    <edge id="295 M3" source="45 Pere Lachaise" target="70 Gambetta" directed="true"/>
+    <edge id="296 M3" source="70 Gambetta" target="71 Porte de Bagnolet" directed="true"/>
+    <edge id="297 M3" source="71 Porte de Bagnolet" target="72 Gallieni" directed="true"/>
+    <edge id="298 M3" source="72 Gallieni" target="71 Porte de Bagnolet" directed="true"/>
+    <edge id="299 M3" source="71 Porte de Bagnolet" target="70 Gambetta" directed="true"/>
+    <edge id="300 M3" source="70 Gambetta" target="45 Pere Lachaise" directed="true"/>
+    <edge id="301 M3" source="45 Pere Lachaise" target="69 Rue Saint-Maur" directed="true"/>
+    <edge id="302 M3" source="69 Rue Saint-Maur" target="68 Parmentier" directed="true"/>
+    <edge id="303 M3" source="68 Parmentier" target="67 Republique" directed="true"/>
+    <edge id="304 M3" source="67 Republique" target="66 Temple" directed="true"/>
+    <edge id="305 M3" source="66 Temple" target="65 Arts et Metiers" directed="true"/>
+    <edge id="306 M3" source="65 Arts et Metiers" target="64 Reaumur - Sebastopol" directed="true"/>
+    <edge id="307 M3" source="64 Reaumur - Sebastopol" target="63 Sentier" directed="true"/>
+    <edge id="308 M3" source="63 Sentier" target="62 Bourse" directed="true"/>
+    <edge id="309 M3" source="62 Bourse" target="61 Quatre-Septembre" directed="true"/>
+    <edge id="310 M3" source="61 Quatre-Septembre" target="60 Opera" directed="true"/>
+    <edge id="311 M3" source="60 Opera" target="59 Havre - Caumartin" directed="true"/>
+    <edge id="312 M3" source="59 Havre - Caumartin" target="58 Saint-Lazare" directed="true"/>
+    <edge id="313 M3" source="58 Saint-Lazare" target="57 Europe" directed="true"/>
+    <edge id="314 M3" source="57 Europe" target="31 Villiers" directed="true"/>
+    <edge id="315 M3" source="31 Villiers" target="55 Malesherbes" directed="true"/>
+    <edge id="316 M3" source="55 Malesherbes" target="54 Wagram" directed="true"/>
+    <edge id="317 M3" source="54 Wagram" target="53 Pereire" directed="true"/>
+    <edge id="318 M3" source="53 Pereire" target="52 Porte de Champerret" directed="true"/>
+    <edge id="319 M3" source="52 Porte de Champerret" target="51 Louise Michel" directed="true"/>
+    <edge id="320 M3" source="51 Louise Michel" target="50 Anatole France" directed="true"/>
+    <edge id="321 M3" source="50 Anatole France" target="49 Pont de Levallois - Becon" directed="true"/>
+    <edge id="322 M3B" source="73 Porte des Lilas" target="74 Saint-Fargeau" directed="true"/>
+    <edge id="323 M3B" source="74 Saint-Fargeau" target="75 Pelleport" directed="true"/>
+    <edge id="324 M3B" source="75 Pelleport" target="70 Gambetta" directed="true"/>
+    <edge id="325 M3B" source="70 Gambetta" target="75 Pelleport" directed="true"/>
+    <edge id="326 M3B" source="75 Pelleport" target="74 Saint-Fargeau" directed="true"/>
+    <edge id="327 M3B" source="74 Saint-Fargeau" target="73 Porte des Lilas" directed="true"/>
+    <edge id="328 M4" source="76 Porte de Clignancourt" target="77 Simplon" directed="true"/>
+    <edge id="329 M4" source="77 Simplon" target="78 Marcadet Poissonniers" directed="true"/>
+    <edge id="330 M4" source="78 Marcadet Poissonniers" target="79 Chateau Rouge" directed="true"/>
+    <edge id="331 M4" source="79 Chateau Rouge" target="37 Barbes - Rochechouart" directed="true"/>
+    <edge id="332 M4" source="37 Barbes - Rochechouart" target="80 Gare du Nord" directed="true"/>
+    <edge id="333 M4" source="80 Gare du Nord" target="81 Gare de l'Est" directed="true"/>
+    <edge id="334 M4" source="81 Gare de l'Est" target="82 Chateau d'Eau" directed="true"/>
+    <edge id="335 M4" source="82 Chateau d'Eau" target="83 Strasbourg Saint-Denis" directed="true"/>
+    <edge id="336 M4" source="83 Strasbourg Saint-Denis" target="64 Reaumur - Sebastopol" directed="true"/>
+    <edge id="337 M4" source="64 Reaumur - Sebastopol" target="85 Etienne Marcel" directed="true"/>
+    <edge id="338 M4" source="85 Etienne Marcel" target="86 Les Halles" directed="true"/>
+    <edge id="339 M4" source="86 Les Halles" target="15 Chatelet" directed="true"/>
+    <edge id="340 M4" source="15 Chatelet" target="87 Cite" directed="true"/>
+    <edge id="341 M4" source="87 Cite" target="88 Saint-Michel" directed="true"/>
+    <edge id="342 M4" source="88 Saint-Michel" target="89 Odeon" directed="true"/>
+    <edge id="343 M4" source="89 Odeon" target="90 Saint-Germain-des-Pres" directed="true"/>
+    <edge id="344 M4" source="90 Saint-Germain-des-Pres" target="91 Saint-Sulpice" directed="true"/>
+    <edge id="345 M4" source="91 Saint-Sulpice" target="92 Saint-Placide" directed="true"/>
+    <edge id="346 M4" source="92 Saint-Placide" target="93 Montparnasse Bienvenue" directed="true"/>
+    <edge id="347 M4" source="93 Montparnasse Bienvenue" target="94 Vavin" directed="true"/>
+    <edge id="348 M4" source="94 Vavin" target="95 Raspail" directed="true"/>
+    <edge id="349 M4" source="95 Raspail" target="96 Denfert-Rochereau" directed="true"/>
+    <edge id="350 M4" source="96 Denfert-Rochereau" target="97 Mouton-Duvernet" directed="true"/>
+    <edge id="351 M4" source="97 Mouton-Duvernet" target="98 Alesia" directed="true"/>
+    <edge id="352 M4" source="98 Alesia" target="99 Porte d'Orleans" directed="true"/>
+    <edge id="353 M4" source="99 Porte d'Orleans" target="98 Alesia" directed="true"/>
+    <edge id="354 M4" source="98 Alesia" target="97 Mouton-Duvernet" directed="true"/>
+    <edge id="355 M4" source="97 Mouton-Duvernet" target="96 Denfert-Rochereau" directed="true"/>
+    <edge id="356 M4" source="96 Denfert-Rochereau" target="95 Raspail" directed="true"/>
+    <edge id="357 M4" source="95 Raspail" target="94 Vavin" directed="true"/>
+    <edge id="358 M4" source="94 Vavin" target="93 Montparnasse Bienvenue" directed="true"/>
+    <edge id="359 M4" source="93 Montparnasse Bienvenue" target="92 Saint-Placide" directed="true"/>
+    <edge id="360 M4" source="92 Saint-Placide" target="91 Saint-Sulpice" directed="true"/>
+    <edge id="361 M4" source="91 Saint-Sulpice" target="90 Saint-Germain-des-Pres" directed="true"/>
+    <edge id="362 M4" source="90 Saint-Germain-des-Pres" target="89 Odeon" directed="true"/>
+    <edge id="363 M4" source="89 Odeon" target="88 Saint-Michel" directed="true"/>
+    <edge id="364 M4" source="88 Saint-Michel" target="87 Cite" directed="true"/>
+    <edge id="365 M4" source="87 Cite" target="15 Chatelet" directed="true"/>
+    <edge id="366 M4" source="15 Chatelet" target="86 Les Halles" directed="true"/>
+    <edge id="367 M4" source="86 Les Halles" target="85 Etienne Marcel" directed="true"/>
+    <edge id="368 M4" source="85 Etienne Marcel" target="64 Reaumur - Sebastopol" directed="true"/>
+    <edge id="369 M4" source="64 Reaumur - Sebastopol" target="83 Strasbourg Saint-Denis" directed="true"/>
+    <edge id="370 M4" source="83 Strasbourg Saint-Denis" target="82 Chateau d'Eau" directed="true"/>
+    <edge id="371 M4" source="82 Chateau d'Eau" target="81 Gare de l'Est" directed="true"/>
+    <edge id="372 M4" source="81 Gare de l'Est" target="80 Gare du Nord" directed="true"/>
+    <edge id="373 M4" source="80 Gare du Nord" target="37 Barbes - Rochechouart" directed="true"/>
+    <edge id="374 M4" source="37 Barbes - Rochechouart" target="79 Chateau Rouge" directed="true"/>
+    <edge id="375 M4" source="79 Chateau Rouge" target="78 Marcadet Poissonniers" directed="true"/>
+    <edge id="376 M4" source="78 Marcadet Poissonniers" target="77 Simplon" directed="true"/>
+    <edge id="377 M4" source="77 Simplon" target="76 Porte de Clignancourt" directed="true"/>
+    <edge id="378 M5" source="100 Bobigny Pablo Picasso" target="101 Bobigny - Pantin - Raymond Queneau" directed="true"/>
+    <edge id="379 M5" source="101 Bobigny - Pantin - Raymond Queneau" target="102 Eglise de Pantin" directed="true"/>
+    <edge id="380 M5" source="102 Eglise de Pantin" target="103 Hoche" directed="true"/>
+    <edge id="381 M5" source="103 Hoche" target="104 Porte de Pantin" directed="true"/>
+    <edge id="382 M5" source="104 Porte de Pantin" target="105 Ourcq" directed="true"/>
+    <edge id="383 M5" source="105 Ourcq" target="106 Laumiere" directed="true"/>
+    <edge id="384 M5" source="106 Laumiere" target="40 Jaures" directed="true"/>
+    <edge id="385 M5" source="40 Jaures" target="39 Stalingrad" directed="true"/>
+    <edge id="386 M5" source="39 Stalingrad" target="80 Gare du Nord" directed="true"/>
+    <edge id="387 M5" source="80 Gare du Nord" target="81 Gare de l'Est" directed="true"/>
+    <edge id="388 M5" source="81 Gare de l'Est" target="107 Jacques Bonsergent" directed="true"/>
+    <edge id="389 M5" source="107 Jacques Bonsergent" target="67 Republique" directed="true"/>
+    <edge id="390 M5" source="67 Republique" target="108 Oberkampf" directed="true"/>
+    <edge id="391 M5" source="108 Oberkampf" target="109 Richard-Lenoir" directed="true"/>
+    <edge id="392 M5" source="109 Richard-Lenoir" target="110 Breguet - Sabin" directed="true"/>
+    <edge id="393 M5" source="110 Breguet - Sabin" target="18 Bastille" directed="true"/>
+    <edge id="394 M5" source="18 Bastille" target="111 Quai de la Rapee" directed="true"/>
+    <edge id="395 M5" source="111 Quai de la Rapee" target="112 Gare d'Austerlitz" directed="true"/>
+    <edge id="396 M5" source="112 Gare d'Austerlitz" target="113 Saint-Marcel" directed="true"/>
+    <edge id="397 M5" source="113 Saint-Marcel" target="114 Campo-Formio" directed="true"/>
+    <edge id="398 M5" source="114 Campo-Formio" target="115 Place d'Italie" directed="true"/>
+    <edge id="399 M5" source="115 Place d'Italie" target="114 Campo-Formio" directed="true"/>
+    <edge id="400 M5" source="114 Campo-Formio" target="113 Saint-Marcel" directed="true"/>
+    <edge id="401 M5" source="113 Saint-Marcel" target="112 Gare d'Austerlitz" directed="true"/>
+    <edge id="402 M5" source="112 Gare d'Austerlitz" target="111 Quai de la Rapee" directed="true"/>
+    <edge id="403 M5" source="111 Quai de la Rapee" target="18 Bastille" directed="true"/>
+    <edge id="404 M5" source="18 Bastille" target="110 Breguet - Sabin" directed="true"/>
+    <edge id="405 M5" source="110 Breguet - Sabin" target="109 Richard-Lenoir" directed="true"/>
+    <edge id="406 M5" source="109 Richard-Lenoir" target="108 Oberkampf" directed="true"/>
+    <edge id="407 M5" source="108 Oberkampf" target="67 Republique" directed="true"/>
+    <edge id="408 M5" source="67 Republique" target="107 Jacques Bonsergent" directed="true"/>
+    <edge id="409 M5" source="107 Jacques Bonsergent" target="81 Gare de l'Est" directed="true"/>
+    <edge id="410 M5" source="81 Gare de l'Est" target="80 Gare du Nord" directed="true"/>
+    <edge id="411 M5" source="80 Gare du Nord" target="39 Stalingrad" directed="true"/>
+    <edge id="412 M5" source="39 Stalingrad" target="40 Jaures" directed="true"/>
+    <edge id="413 M5" source="40 Jaures" target="106 Laumiere" directed="true"/>
+    <edge id="414 M5" source="106 Laumiere" target="105 Ourcq" directed="true"/>
+    <edge id="415 M5" source="105 Ourcq" target="104 Porte de Pantin" directed="true"/>
+    <edge id="416 M5" source="104 Porte de Pantin" target="103 Hoche" directed="true"/>
+    <edge id="417 M5" source="103 Hoche" target="102 Eglise de Pantin" directed="true"/>
+    <edge id="418 M5" source="102 Eglise de Pantin" target="101 Bobigny - Pantin - Raymond Queneau" directed="true"/>
+    <edge id="419 M5" source="101 Bobigny - Pantin - Raymond Queneau" target="100 Bobigny Pablo Picasso" directed="true"/>
+    <edge id="420 M6" source="7 Charles de Gaulle - Etoile" target="116 Kleber" directed="true"/>
+    <edge id="421 M6" source="116 Kleber" target="117 Boissiere" directed="true"/>
+    <edge id="422 M6" source="117 Boissiere" target="118 Trocadero" directed="true"/>
+    <edge id="423 M6" source="118 Trocadero" target="119 Passy" directed="true"/>
+    <edge id="424 M6" source="119 Passy" target="120 Bir-Hakeim" directed="true"/>
+    <edge id="425 M6" source="120 Bir-Hakeim" target="121 Dupleix" directed="true"/>
+    <edge id="426 M6" source="121 Dupleix" target="122 La Motte-Picquet Grenelle" directed="true"/>
+    <edge id="427 M6" source="122 La Motte-Picquet Grenelle" target="123 Cambronne" directed="true"/>
+    <edge id="428 M6" source="123 Cambronne" target="124 Sevres-Lecourbe" directed="true"/>
+    <edge id="429 M6" source="124 Sevres-Lecourbe" target="125 Pasteur" directed="true"/>
+    <edge id="430 M6" source="125 Pasteur" target="93 Montparnasse Bienvenue" directed="true"/>
+    <edge id="431 M6" source="93 Montparnasse Bienvenue" target="126 Edgar Quinet" directed="true"/>
+    <edge id="432 M6" source="126 Edgar Quinet" target="95 Raspail" directed="true"/>
+    <edge id="433 M6" source="95 Raspail" target="96 Denfert-Rochereau" directed="true"/>
+    <edge id="434 M6" source="96 Denfert-Rochereau" target="127 Saint-Jacques" directed="true"/>
+    <edge id="435 M6" source="127 Saint-Jacques" target="128 Glaciere" directed="true"/>
+    <edge id="436 M6" source="128 Glaciere" target="129 Corvisart" directed="true"/>
+    <edge id="437 M6" source="129 Corvisart" target="115 Place d'Italie" directed="true"/>
+    <edge id="438 M6" source="115 Place d'Italie" target="130 Nationale" directed="true"/>
+    <edge id="439 M6" source="130 Nationale" target="131 Chevaleret" directed="true"/>
+    <edge id="440 M6" source="131 Chevaleret" target="132 Quai de la Gare" directed="true"/>
+    <edge id="441 M6" source="132 Quai de la Gare" target="133 Bercy" directed="true"/>
+    <edge id="442 M6" source="133 Bercy" target="134 Dugommier" directed="true"/>
+    <edge id="443 M6" source="134 Dugommier" target="135 Daumesnil" directed="true"/>
+    <edge id="444 M6" source="135 Daumesnil" target="136 Bel-Air" directed="true"/>
+    <edge id="445 M6" source="136 Bel-Air" target="137 Picpus" directed="true"/>
+    <edge id="446 M6" source="137 Picpus" target="21 Nation" directed="true"/>
+    <edge id="447 M6" source="21 Nation" target="137 Picpus" directed="true"/>
+    <edge id="448 M6" source="137 Picpus" target="136 Bel-Air" directed="true"/>
+    <edge id="449 M6" source="136 Bel-Air" target="135 Daumesnil" directed="true"/>
+    <edge id="450 M6" source="135 Daumesnil" target="134 Dugommier" directed="true"/>
+    <edge id="451 M6" source="134 Dugommier" target="133 Bercy" directed="true"/>
+    <edge id="452 M6" source="133 Bercy" target="132 Quai de la Gare" directed="true"/>
+    <edge id="453 M6" source="132 Quai de la Gare" target="131 Chevaleret" directed="true"/>
+    <edge id="454 M6" source="131 Chevaleret" target="130 Nationale" directed="true"/>
+    <edge id="455 M6" source="130 Nationale" target="115 Place d'Italie" directed="true"/>
+    <edge id="456 M6" source="115 Place d'Italie" target="129 Corvisart" directed="true"/>
+    <edge id="457 M6" source="129 Corvisart" target="128 Glaciere" directed="true"/>
+    <edge id="458 M6" source="128 Glaciere" target="127 Saint-Jacques" directed="true"/>
+    <edge id="459 M6" source="127 Saint-Jacques" target="96 Denfert-Rochereau" directed="true"/>
+    <edge id="460 M6" source="96 Denfert-Rochereau" target="95 Raspail" directed="true"/>
+    <edge id="461 M6" source="95 Raspail" target="126 Edgar Quinet" directed="true"/>
+    <edge id="462 M6" source="126 Edgar Quinet" target="93 Montparnasse Bienvenue" directed="true"/>
+    <edge id="463 M6" source="93 Montparnasse Bienvenue" target="125 Pasteur" directed="true"/>
+    <edge id="464 M6" source="125 Pasteur" target="124 Sevres-Lecourbe" directed="true"/>
+    <edge id="465 M6" source="124 Sevres-Lecourbe" target="123 Cambronne" directed="true"/>
+    <edge id="466 M6" source="123 Cambronne" target="122 La Motte-Picquet Grenelle" directed="true"/>
+    <edge id="467 M6" source="122 La Motte-Picquet Grenelle" target="121 Dupleix" directed="true"/>
+    <edge id="468 M6" source="121 Dupleix" target="120 Bir-Hakeim" directed="true"/>
+    <edge id="469 M6" source="120 Bir-Hakeim" target="119 Passy" directed="true"/>
+    <edge id="470 M6" source="119 Passy" target="118 Trocadero" directed="true"/>
+    <edge id="471 M6" source="118 Trocadero" target="117 Boissiere" directed="true"/>
+    <edge id="472 M6" source="117 Boissiere" target="116 Kleber" directed="true"/>
+    <edge id="473 M6" source="116 Kleber" target="7 Charles de Gaulle - Etoile" directed="true"/>
+    <edge id="474 M7" source="138 La Courneuve 8 Mai 1945" target="139 Fort d'Aubervilliers" directed="true"/>
+    <edge id="475 M7" source="139 Fort d'Aubervilliers" target="140 Aubervilliers - Pantin - Quatre Chemins" directed="true"/>
+    <edge id="476 M7" source="140 Aubervilliers - Pantin - Quatre Chemins" target="141 Porte de la Villette" directed="true"/>
+    <edge id="477 M7" source="141 Porte de la Villette" target="142 Corentin Cariou" directed="true"/>
+    <edge id="478 M7" source="142 Corentin Cariou" target="143 Crimee" directed="true"/>
+    <edge id="479 M7" source="143 Crimee" target="144 Riquet" directed="true"/>
+    <edge id="480 M7" source="144 Riquet" target="39 Stalingrad" directed="true"/>
+    <edge id="481 M7" source="39 Stalingrad" target="145 Louis Blanc" directed="true"/>
+    <edge id="482 M7" source="145 Louis Blanc" target="146 Chateau Landon" directed="true"/>
+    <edge id="483 M7" source="146 Chateau Landon" target="81 Gare de l'Est" directed="true"/>
+    <edge id="484 M7" source="81 Gare de l'Est" target="147 Poissoniere" directed="true"/>
+    <edge id="485 M7" source="147 Poissoniere" target="148 Cadet" directed="true"/>
+    <edge id="486 M7" source="148 Cadet" target="149 Le Peletier" directed="true"/>
+    <edge id="487 M7" source="149 Le Peletier" target="150 Chaussee d'Antin - La Fayette" directed="true"/>
+    <edge id="488 M7" source="150 Chaussee d'Antin - La Fayette" target="60 Opera" directed="true"/>
+    <edge id="489 M7" source="60 Opera" target="151 Pyramides" directed="true"/>
+    <edge id="490 M7" source="151 Pyramides" target="13 Palais Royal - Musee du Louvre" directed="true"/>
+    <edge id="491 M7" source="13 Palais Royal - Musee du Louvre" target="152 Pont Neuf" directed="true"/>
+    <edge id="492 M7" source="152 Pont Neuf" target="15 Chatelet" directed="true"/>
+    <edge id="493 M7" source="15 Chatelet" target="153 Pont Marie" directed="true"/>
+    <edge id="494 M7" source="153 Pont Marie" target="154 Sully - Morland" directed="true"/>
+    <edge id="495 M7" source="154 Sully - Morland" target="155 Jussieu" directed="true"/>
+    <edge id="496 M7" source="155 Jussieu" target="156 Place Monge" directed="true"/>
+    <edge id="497 M7" source="156 Place Monge" target="157 Censier - Daubenton" directed="true"/>
+    <edge id="498 M7" source="157 Censier - Daubenton" target="158 Les Gobelines" directed="true"/>
+    <edge id="499 M7" source="158 Les Gobelines" target="115 Place d'Italie" directed="true"/>
+    <edge id="500 M7" source="115 Place d'Italie" target="159 Tolbiac" directed="true"/>
+    <edge id="501 M7" source="159 Tolbiac" target="160 Maison Blanche" directed="true"/>
+    <edge id="502 M7" source="160 Maison Blanche" target="161 Porte d'Italie" directed="true"/>
+    <edge id="503 M7" source="161 Porte d'Italie" target="162 Porte de Choisy" directed="true"/>
+    <edge id="504 M7" source="162 Porte de Choisy" target="163 Porte d'Ivry" directed="true"/>
+    <edge id="505 M7" source="163 Porte d'Ivry" target="164 Pierre et Marie Curie" directed="true"/>
+    <edge id="506 M7" source="164 Pierre et Marie Curie" target="165 Mairie d'Ivry" directed="true"/>
+    <edge id="507 M7" source="165 Mairie d'Ivry" target="164 Pierre et Marie Curie" directed="true"/>
+    <edge id="508 M7" source="164 Pierre et Marie Curie" target="163 Porte d'Ivry" directed="true"/>
+    <edge id="509 M7" source="163 Porte d'Ivry" target="162 Porte de Choisy" directed="true"/>
+    <edge id="510 M7" source="162 Porte de Choisy" target="161 Porte d'Italie" directed="true"/>
+    <edge id="511 M7" source="161 Porte d'Italie" target="160 Maison Blanche" directed="true"/>
+    <edge id="512 M7" source="160 Maison Blanche" target="166 Le Kremlin-Bicetre" directed="true"/>
+    <edge id="513 M7" source="166 Le Kremlin-Bicetre" target="167 Villejuif - Leo Lagrange" directed="true"/>
+    <edge id="514 M7" source="167 Villejuif - Leo Lagrange" target="168 Villejuif - Paul Vaillant - Couturier" directed="true"/>
+    <edge id="515 M7" source="168 Villejuif - Paul Vaillant - Couturier" target="169 Villejuif - Louis Aragon" directed="true"/>
+    <edge id="516 M7" source="169 Villejuif - Louis Aragon" target="168 Villejuif - Paul Vaillant - Couturier" directed="true"/>
+    <edge id="517 M7" source="168 Villejuif - Paul Vaillant - Couturier" target="167 Villejuif - Leo Lagrange" directed="true"/>
+    <edge id="518 M7" source="167 Villejuif - Leo Lagrange" target="166 Le Kremlin-Bicetre" directed="true"/>
+    <edge id="519 M7" source="166 Le Kremlin-Bicetre" target="160 Maison Blanche" directed="true"/>
+    <edge id="520 M7" source="160 Maison Blanche" target="159 Tolbiac" directed="true"/>
+    <edge id="521 M7" source="159 Tolbiac" target="115 Place d'Italie" directed="true"/>
+    <edge id="522 M7" source="115 Place d'Italie" target="158 Les Gobelines" directed="true"/>
+    <edge id="523 M7" source="158 Les Gobelines" target="157 Censier - Daubenton" directed="true"/>
+    <edge id="524 M7" source="157 Censier - Daubenton" target="156 Place Monge" directed="true"/>
+    <edge id="525 M7" source="156 Place Monge" target="155 Jussieu" directed="true"/>
+    <edge id="526 M7" source="155 Jussieu" target="154 Sully - Morland" directed="true"/>
+    <edge id="527 M7" source="154 Sully - Morland" target="153 Pont Marie" directed="true"/>
+    <edge id="528 M7" source="153 Pont Marie" target="15 Chatelet" directed="true"/>
+    <edge id="529 M7" source="15 Chatelet" target="152 Pont Neuf" directed="true"/>
+    <edge id="530 M7" source="152 Pont Neuf" target="13 Palais Royal - Musee du Louvre" directed="true"/>
+    <edge id="531 M7" source="13 Palais Royal - Musee du Louvre" target="151 Pyramides" directed="true"/>
+    <edge id="532 M7" source="151 Pyramides" target="60 Opera" directed="true"/>
+    <edge id="533 M7" source="60 Opera" target="150 Chaussee d'Antin - La Fayette" directed="true"/>
+    <edge id="534 M7" source="150 Chaussee d'Antin - La Fayette" target="149 Le Peletier" directed="true"/>
+    <edge id="535 M7" source="149 Le Peletier" target="148 Cadet" directed="true"/>
+    <edge id="536 M7" source="148 Cadet" target="147 Poissoniere" directed="true"/>
+    <edge id="537 M7" source="147 Poissoniere" target="81 Gare de l'Est" directed="true"/>
+    <edge id="538 M7" source="81 Gare de l'Est" target="146 Chateau Landon" directed="true"/>
+    <edge id="539 M7" source="146 Chateau Landon" target="145 Louis Blanc" directed="true"/>
+    <edge id="540 M7" source="145 Louis Blanc" target="39 Stalingrad" directed="true"/>
+    <edge id="541 M7" source="39 Stalingrad" target="144 Riquet" directed="true"/>
+    <edge id="542 M7" source="144 Riquet" target="143 Crimee" directed="true"/>
+    <edge id="543 M7" source="143 Crimee" target="142 Corentin Cariou" directed="true"/>
+    <edge id="544 M7" source="142 Corentin Cariou" target="141 Porte de la Villette" directed="true"/>
+    <edge id="545 M7" source="141 Porte de la Villette" target="140 Aubervilliers - Pantin - Quatre Chemins" directed="true"/>
+    <edge id="546 M7" source="140 Aubervilliers - Pantin - Quatre Chemins" target="139 Fort d'Aubervilliers" directed="true"/>
+    <edge id="547 M7" source="139 Fort d'Aubervilliers" target="138 La Courneuve 8 Mai 1945" directed="true"/>
+    <edge id="548 M7B" source="145 Louis Blanc" target="40 Jaures" directed="true"/>
+    <edge id="549 M7B" source="40 Jaures" target="170 Bolivar" directed="true"/>
+    <edge id="550 M7B" source="170 Bolivar" target="171 Buttes Chaumont" directed="true"/>
+    <edge id="551 M7B" source="171 Buttes Chaumont" target="172 Botzaris" directed="true"/>
+    <edge id="552 M7B" source="172 Botzaris" target="173 Place des Fetes" directed="true"/>
+    <edge id="553 M7B" source="173 Place des Fetes" target="174 Pre-Saint-Gervais" directed="true"/>
+    <edge id="554 M7B" source="174 Pre-Saint-Gervais" target="175 Danube" directed="true"/>
+    <edge id="555 M7B" source="175 Danube" target="172 Botzaris" directed="true"/>
+    <edge id="556 M7B" source="172 Botzaris" target="171 Buttes Chaumont" directed="true"/>
+    <edge id="557 M7B" source="171 Buttes Chaumont" target="170 Bolivar" directed="true"/>
+    <edge id="558 M7B" source="170 Bolivar" target="40 Jaures" directed="true"/>
+    <edge id="559 M7B" source="40 Jaures" target="145 Louis Blanc" directed="true"/>
+    <edge id="560 M8" source="176 Balard" target="177 Lourmel" directed="true"/>
+    <edge id="561 M8" source="177 Lourmel" target="178 Boucicaut" directed="true"/>
+    <edge id="562 M8" source="178 Boucicaut" target="179 Felix Faure" directed="true"/>
+    <edge id="563 M8" source="179 Felix Faure" target="180 Commerce" directed="true"/>
+    <edge id="564 M8" source="180 Commerce" target="122 La Motte-Picquet Grenelle" directed="true"/>
+    <edge id="565 M8" source="122 La Motte-Picquet Grenelle" target="181 Ecole Militaire" directed="true"/>
+    <edge id="566 M8" source="181 Ecole Militaire" target="182 La Tour-Maubourg" directed="true"/>
+    <edge id="567 M8" source="182 La Tour-Maubourg" target="183 Invalides" directed="true"/>
+    <edge id="568 M8" source="183 Invalides" target="11 Concorde" directed="true"/>
+    <edge id="569 M8" source="11 Concorde" target="184 Madeleine" directed="true"/>
+    <edge id="570 M8" source="184 Madeleine" target="60 Opera" directed="true"/>
+    <edge id="571 M8" source="60 Opera" target="185 Richelieu - Drouot" directed="true"/>
+    <edge id="572 M8" source="185 Richelieu - Drouot" target="186 Grands Boulevards" directed="true"/>
+    <edge id="573 M8" source="186 Grands Boulevards" target="187 Bonne Nouvelle" directed="true"/>
+    <edge id="574 M8" source="187 Bonne Nouvelle" target="83 Strasbourg Saint-Denis" directed="true"/>
+    <edge id="575 M8" source="83 Strasbourg Saint-Denis" target="67 Republique" directed="true"/>
+    <edge id="576 M8" source="67 Republique" target="188 Filles du Calvaire" directed="true"/>
+    <edge id="577 M8" source="188 Filles du Calvaire" target="189 Saint-Sebastien - Froissart" directed="true"/>
+    <edge id="578 M8" source="189 Saint-Sebastien - Froissart" target="190 Chemin Vert" directed="true"/>
+    <edge id="579 M8" source="190 Chemin Vert" target="18 Bastille" directed="true"/>
+    <edge id="580 M8" source="18 Bastille" target="191 Ledru-Rollin" directed="true"/>
+    <edge id="581 M8" source="191 Ledru-Rollin" target="192 Faidherbe - Chaligny" directed="true"/>
+    <edge id="582 M8" source="192 Faidherbe - Chaligny" target="20 Reuilly - Diderot" directed="true"/>
+    <edge id="583 M8" source="20 Reuilly - Diderot" target="193 Montgallet" directed="true"/>
+    <edge id="584 M8" source="193 Montgallet" target="135 Daumesnil" directed="true"/>
+    <edge id="585 M8" source="135 Daumesnil" target="194 Michel Bizot" directed="true"/>
+    <edge id="586 M8" source="194 Michel Bizot" target="195 Porte Doree" directed="true"/>
+    <edge id="587 M8" source="195 Porte Doree" target="196 Porte de Charenton" directed="true"/>
+    <edge id="588 M8" source="196 Porte de Charenton" target="197 Liberte" directed="true"/>
+    <edge id="589 M8" source="197 Liberte" target="198 Charenton - Ecoles" directed="true"/>
+    <edge id="590 M8" source="198 Charenton - Ecoles" target="199 Ecole Veterinaire de Maisons-Alfort" directed="true"/>
+    <edge id="591 M8" source="199 Ecole Veterinaire de Maisons-Alfort" target="200 Maisons-Alfort - Stade" directed="true"/>
+    <edge id="592 M8" source="200 Maisons-Alfort - Stade" target="201 Maisons-Alfort - Les Juilliottes" directed="true"/>
+    <edge id="593 M8" source="201 Maisons-Alfort - Les Juilliottes" target="202 Creteil - L'Echat" directed="true"/>
+    <edge id="594 M8" source="202 Creteil - L'Echat" target="203 Creteil - Universite" directed="true"/>
+    <edge id="595 M8" source="203 Creteil - Universite" target="204 Creteil - Prefecture" directed="true"/>
+    <edge id="596 M8" source="204 Creteil - Prefecture" target="203 Creteil - Universite" directed="true"/>
+    <edge id="597 M8" source="203 Creteil - Universite" target="202 Creteil - L'Echat" directed="true"/>
+    <edge id="598 M8" source="202 Creteil - L'Echat" target="201 Maisons-Alfort - Les Juilliottes" directed="true"/>
+    <edge id="599 M8" source="201 Maisons-Alfort - Les Juilliottes" target="200 Maisons-Alfort - Stade" directed="true"/>
+    <edge id="600 M8" source="200 Maisons-Alfort - Stade" target="199 Ecole Veterinaire de Maisons-Alfort" directed="true"/>
+    <edge id="601 M8" source="199 Ecole Veterinaire de Maisons-Alfort" target="198 Charenton - Ecoles" directed="true"/>
+    <edge id="602 M8" source="198 Charenton - Ecoles" target="197 Liberte" directed="true"/>
+    <edge id="603 M8" source="197 Liberte" target="196 Porte de Charenton" directed="true"/>
+    <edge id="604 M8" source="196 Porte de Charenton" target="195 Porte Doree" directed="true"/>
+    <edge id="605 M8" source="195 Porte Doree" target="194 Michel Bizot" directed="true"/>
+    <edge id="606 M8" source="194 Michel Bizot" target="135 Daumesnil" directed="true"/>
+    <edge id="607 M8" source="135 Daumesnil" target="193 Montgallet" directed="true"/>
+    <edge id="608 M8" source="193 Montgallet" target="20 Reuilly - Diderot" directed="true"/>
+    <edge id="609 M8" source="20 Reuilly - Diderot" target="192 Faidherbe - Chaligny" directed="true"/>
+    <edge id="610 M8" source="192 Faidherbe - Chaligny" target="191 Ledru-Rollin" directed="true"/>
+    <edge id="611 M8" source="191 Ledru-Rollin" target="18 Bastille" directed="true"/>
+    <edge id="612 M8" source="18 Bastille" target="190 Chemin Vert" directed="true"/>
+    <edge id="613 M8" source="190 Chemin Vert" target="189 Saint-Sebastien - Froissart" directed="true"/>
+    <edge id="614 M8" source="189 Saint-Sebastien - Froissart" target="188 Filles du Calvaire" directed="true"/>
+    <edge id="615 M8" source="188 Filles du Calvaire" target="67 Republique" directed="true"/>
+    <edge id="616 M8" source="67 Republique" target="83 Strasbourg Saint-Denis" directed="true"/>
+    <edge id="617 M8" source="83 Strasbourg Saint-Denis" target="187 Bonne Nouvelle" directed="true"/>
+    <edge id="618 M8" source="187 Bonne Nouvelle" target="186 Grands Boulevards" directed="true"/>
+    <edge id="619 M8" source="186 Grands Boulevards" target="185 Richelieu - Drouot" directed="true"/>
+    <edge id="620 M8" source="185 Richelieu - Drouot" target="60 Opera" directed="true"/>
+    <edge id="621 M8" source="60 Opera" target="184 Madeleine" directed="true"/>
+    <edge id="622 M8" source="184 Madeleine" target="11 Concorde" directed="true"/>
+    <edge id="623 M8" source="11 Concorde" target="183 Invalides" directed="true"/>
+    <edge id="624 M8" source="183 Invalides" target="182 La Tour-Maubourg" directed="true"/>
+    <edge id="625 M8" source="182 La Tour-Maubourg" target="181 Ecole Militaire" directed="true"/>
+    <edge id="626 M8" source="181 Ecole Militaire" target="122 La Motte-Picquet Grenelle" directed="true"/>
+    <edge id="627 M8" source="122 La Motte-Picquet Grenelle" target="180 Commerce" directed="true"/>
+    <edge id="628 M8" source="180 Commerce" target="179 Felix Faure" directed="true"/>
+    <edge id="629 M8" source="179 Felix Faure" target="178 Boucicaut" directed="true"/>
+    <edge id="630 M8" source="178 Boucicaut" target="177 Lourmel" directed="true"/>
+    <edge id="631 M8" source="177 Lourmel" target="176 Balard" directed="true"/>
+    <edge id="632 M9" source="205 Pont de Sevres" target="206 Billancourt" directed="true"/>
+    <edge id="633 M9" source="206 Billancourt" target="207 Marcel Sembat" directed="true"/>
+    <edge id="634 M9" source="207 Marcel Sembat" target="208 Porte de Saint-Cloud" directed="true"/>
+    <edge id="635 M9" source="208 Porte de Saint-Cloud" target="209 Exelmans" directed="true"/>
+    <edge id="636 M9" source="209 Exelmans" target="210 Michel-Ange - Molitor" directed="true"/>
+    <edge id="637 M9" source="210 Michel-Ange - Molitor" target="211 Michel-Ange - Auteuil" directed="true"/>
+    <edge id="638 M9" source="211 Michel-Ange - Auteuil" target="212 Jasmin" directed="true"/>
+    <edge id="639 M9" source="212 Jasmin" target="213 Ranelagh" directed="true"/>
+    <edge id="640 M9" source="213 Ranelagh" target="214 La Muette" directed="true"/>
+    <edge id="641 M9" source="214 La Muette" target="215 Rue de la Pompe" directed="true"/>
+    <edge id="642 M9" source="215 Rue de la Pompe" target="118 Trocadero" directed="true"/>
+    <edge id="643 M9" source="118 Trocadero" target="216 Iena" directed="true"/>
+    <edge id="644 M9" source="216 Iena" target="217 Alma - Marceau" directed="true"/>
+    <edge id="645 M9" source="217 Alma - Marceau" target="9 Franklin D. Roosevelt" directed="true"/>
+    <edge id="646 M9" source="9 Franklin D. Roosevelt" target="218 Saint-Philippe-du-Roule" directed="true"/>
+    <edge id="647 M9" source="218 Saint-Philippe-du-Roule" target="219 Miromesnil" directed="true"/>
+    <edge id="648 M9" source="219 Miromesnil" target="220 Saint-Augustin" directed="true"/>
+    <edge id="649 M9" source="220 Saint-Augustin" target="59 Havre - Caumartin" directed="true"/>
+    <edge id="650 M9" source="59 Havre - Caumartin" target="150 Chaussee d'Antin - La Fayette" directed="true"/>
+    <edge id="651 M9" source="150 Chaussee d'Antin - La Fayette" target="185 Richelieu - Drouot" directed="true"/>
+    <edge id="652 M9" source="185 Richelieu - Drouot" target="221 Grands Boulevards" directed="true"/>
+    <edge id="653 M9" source="221 Grands Boulevards" target="222 Bonne Nouvelle" directed="true"/>
+    <edge id="654 M9" source="222 Bonne Nouvelle" target="83 Strasbourg Saint-Denis" directed="true"/>
+    <edge id="655 M9" source="83 Strasbourg Saint-Denis" target="67 Republique" directed="true"/>
+    <edge id="656 M9" source="67 Republique" target="108 Oberkampf" directed="true"/>
+    <edge id="657 M9" source="108 Oberkampf" target="223 Saint-Ambroise" directed="true"/>
+    <edge id="658 M9" source="223 Saint-Ambroise" target="224 Voltaire" directed="true"/>
+    <edge id="659 M9" source="224 Voltaire" target="225 Charonne" directed="true"/>
+    <edge id="660 M9" source="225 Charonne" target="226 Rue des Boulets" directed="true"/>
+    <edge id="661 M9" source="226 Rue des Boulets" target="21 Nation" directed="true"/>
+    <edge id="662 M9" source="21 Nation" target="227 Buzenval" directed="true"/>
+    <edge id="663 M9" source="227 Buzenval" target="228 Maraichers" directed="true"/>
+    <edge id="664 M9" source="228 Maraichers" target="229 Porte de Montreuil" directed="true"/>
+    <edge id="665 M9" source="229 Porte de Montreuil" target="230 Robespierre" directed="true"/>
+    <edge id="666 M9" source="230 Robespierre" target="231 Croix de Chavaux" directed="true"/>
+    <edge id="667 M9" source="231 Croix de Chavaux" target="232 Mairie de Montreuil" directed="true"/>
+    <edge id="668 M9" source="232 Mairie de Montreuil" target="231 Croix de Chavaux" directed="true"/>
+    <edge id="669 M9" source="231 Croix de Chavaux" target="230 Robespierre" directed="true"/>
+    <edge id="670 M9" source="230 Robespierre" target="229 Porte de Montreuil" directed="true"/>
+    <edge id="671 M9" source="229 Porte de Montreuil" target="228 Maraichers" directed="true"/>
+    <edge id="672 M9" source="228 Maraichers" target="227 Buzenval" directed="true"/>
+    <edge id="673 M9" source="227 Buzenval" target="21 Nation" directed="true"/>
+    <edge id="674 M9" source="21 Nation" target="226 Rue des Boulets" directed="true"/>
+    <edge id="675 M9" source="226 Rue des Boulets" target="225 Charonne" directed="true"/>
+    <edge id="676 M9" source="225 Charonne" target="224 Voltaire" directed="true"/>
+    <edge id="677 M9" source="224 Voltaire" target="223 Saint-Ambroise" directed="true"/>
+    <edge id="678 M9" source="223 Saint-Ambroise" target="108 Oberkampf" directed="true"/>
+    <edge id="679 M9" source="108 Oberkampf" target="67 Republique" directed="true"/>
+    <edge id="680 M9" source="67 Republique" target="83 Strasbourg Saint-Denis" directed="true"/>
+    <edge id="681 M9" source="83 Strasbourg Saint-Denis" target="222 Bonne Nouvelle" directed="true"/>
+    <edge id="682 M9" source="222 Bonne Nouvelle" target="221 Grands Boulevards" directed="true"/>
+    <edge id="683 M9" source="221 Grands Boulevards" target="185 Richelieu - Drouot" directed="true"/>
+    <edge id="684 M9" source="185 Richelieu - Drouot" target="150 Chaussee d'Antin - La Fayette" directed="true"/>
+    <edge id="685 M9" source="150 Chaussee d'Antin - La Fayette" target="59 Havre - Caumartin" directed="true"/>
+    <edge id="686 M9" source="59 Havre - Caumartin" target="220 Saint-Augustin" directed="true"/>
+    <edge id="687 M9" source="220 Saint-Augustin" target="219 Miromesnil" directed="true"/>
+    <edge id="688 M9" source="219 Miromesnil" target="218 Saint-Philippe-du-Roule" directed="true"/>
+    <edge id="689 M9" source="218 Saint-Philippe-du-Roule" target="9 Franklin D. Roosevelt" directed="true"/>
+    <edge id="690 M9" source="9 Franklin D. Roosevelt" target="217 Alma - Marceau" directed="true"/>
+    <edge id="691 M9" source="217 Alma - Marceau" target="216 Iena" directed="true"/>
+    <edge id="692 M9" source="216 Iena" target="118 Trocadero" directed="true"/>
+    <edge id="693 M9" source="118 Trocadero" target="215 Rue de la Pompe" directed="true"/>
+    <edge id="694 M9" source="215 Rue de la Pompe" target="214 La Muette" directed="true"/>
+    <edge id="695 M9" source="214 La Muette" target="213 Ranelagh" directed="true"/>
+    <edge id="696 M9" source="213 Ranelagh" target="212 Jasmin" directed="true"/>
+    <edge id="697 M9" source="212 Jasmin" target="211 Michel-Ange - Auteuil" directed="true"/>
+    <edge id="698 M9" source="211 Michel-Ange - Auteuil" target="210 Michel-Ange - Molitor" directed="true"/>
+    <edge id="699 M9" source="210 Michel-Ange - Molitor" target="209 Exelmans" directed="true"/>
+    <edge id="700 M9" source="209 Exelmans" target="208 Porte de Saint-Cloud" directed="true"/>
+    <edge id="701 M9" source="208 Porte de Saint-Cloud" target="207 Marcel Sembat" directed="true"/>
+    <edge id="702 M9" source="207 Marcel Sembat" target="206 Billancourt" directed="true"/>
+    <edge id="703 M9" source="206 Billancourt" target="205 Pont de Sevres" directed="true"/>
+  </graph>
+</graphml>
