@@ -10,14 +10,14 @@ Liste des packages necessaires :
  -numpy
  -matplotlib, mpl_toolkits.mplot3d
  
- 
 Listes des fonctionalités :
 - Lecture des metadonnées du raster
-- elevation/valeur en un pixel
+- Elevation/valeur en un pixel
 - Profil topographique / courbe de valeurs
 - Diagramme3D du raster
 - Lecture de "Scanline" 
 - Polygonisation integrale du raster
--histogramme & statistiques
+- Subsets
+- Histogramme & statistiques
 -calculs d'indices (ndvi ...)
 -classifications diverses
