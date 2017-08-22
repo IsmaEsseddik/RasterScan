@@ -154,8 +154,8 @@ class Perceptron:
         return list_activ
 
 if __name__ == "__main__":
-    W=[1,2,1,2,2,1,2]
-    X=[0.1,0.6,0.4,0.7,0.8,0.2,0.12]
+    W = [1,2,1,2,2,1,2]
+    X = [0.1,0.6,0.4,0.7,0.8,0.2,0.12]
     a = Neurone(0)
     x1, x2, x3, x4 = 0.2, 0.73, 0, 1
     print(a.neurxor(x2, x2))
