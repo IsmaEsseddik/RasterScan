@@ -36,8 +36,8 @@ def rempuiss(a,b,n):
     return r
 # -------------------------------------------------------------------------
 """
-
 # -----------Système neuronale---------------------
+
 class Neurone:
     """ Objet neurone artificiel doté d'un identifiant 'id' (entier positif). """
     # --------------------------- Constructeur ---------------------------
